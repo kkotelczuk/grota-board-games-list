@@ -1,0 +1,4881 @@
+{
+  "updatedAt": "2026-02-02T21:06:23.274Z",
+  "games": [
+    {
+      "id": null,
+      "name": "1941 Race to Moscow",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "60",
+      "weight": 3.09,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "1941 Race to Moscow",
+        "Język": "Angielski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "3.09",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "1989 Jesień narodów",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "120-180",
+      "weight": 3.29,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "1989 Jesień narodów",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "3.29",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "7 Cudów świata",
+      "minPlayers": 2,
+      "maxPlayers": 7,
+      "playTime": "30",
+      "weight": 2.32,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "7 Cudów świata",
+        "Język": "Polski",
+        "Ilość graczy": "2-7",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.32",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "7 cudów świata pojedynek",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "30",
+      "weight": 2.22,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "7 cudów świata pojedynek",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.22",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Achaja",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "60-90",
+      "weight": 3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Achaja",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "3.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Adrenaline",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "60",
+      "weight": 2.38,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Adrenaline",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.38",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Akademia smoczych wrót",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-90",
+      "weight": 3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Akademia smoczych wrót",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "3.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Alchemicy",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "120",
+      "weight": 3.92,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Alchemicy",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "3.92",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Ark Nova",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "90-150",
+      "weight": 3.77,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Ark Nova",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "90-150",
+        "BGG Trudność": "3.77",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Atlantis island of gods",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "45",
+      "weight": 3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Atlantis island of gods ",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "3.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Avalon",
+      "minPlayers": 5,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": 1.74,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Avalon",
+        "Język": "Polski",
+        "Ilość graczy": "5-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.74",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Bankrut",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "30",
+      "weight": 1.2,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Bankrut",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.20",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Battle of Britain",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "90-180",
+      "weight": 2.5,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Battle of Britain",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "90-180",
+        "BGG Trudność": "2.50",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Black mirror NOSEDIVE",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "30",
+      "weight": 1.8,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Black mirror NOSEDIVE",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.80",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Black Orchestra",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "90",
+      "weight": 2.42,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Black Orchestra",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "90",
+        "BGG Trudność": "2.42",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Blok ekipa Szacun na rejonie",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "30",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Blok ekipa Szacun na rejonie",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Bora bora",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": 3.73,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Bora bora",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "3.73",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Boss Monster",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 1.85,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Boss Monster",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.85",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Boss Monster next level",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 1.84,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Boss Monster next level",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.84",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Bossing Space",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "45",
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Bossing Space",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Brass lancanshire",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": 3.85,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Brass lancanshire",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "3.85",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Brian Boru",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "60-90",
+      "weight": 2.54,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Brian Boru",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "2.54",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Brother and Unity",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "playTime": "120-180",
+      "weight": 2.96,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Brother and Unity",
+        "Język": "Angielski",
+        "Ilość graczy": "2-3",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "2.96",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Brzdęk",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "90-120",
+      "weight": 2.23,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Brzdęk ",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "2.23",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Budowa Miasta",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "45",
+      "weight": 1.75,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Budowa Miasta",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.75",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Burning Banners",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "60-240",
+      "weight": 3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Burning Banners",
+        "Język": "Angielski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "60-240",
+        "BGG Trudność": "3.0",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Camel up po zawodach",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "45",
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Camel up po zawodach",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Captain Sonar",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "45",
+      "weight": 2.19,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Captain Sonar",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.19",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Captains Log",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "60-240",
+      "weight": 4.19,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Captains Log",
+        "Język": "Angielski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "60-240",
+        "BGG Trudność": "4.19",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Carcassone",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "30",
+      "weight": 1.89,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Carcassone",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.89",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Cards against humanity",
+      "minPlayers": 4,
+      "maxPlayers": 20,
+      "playTime": "30-90",
+      "weight": 1.18,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Cards against humanity",
+        "Język": "Polski",
+        "Ilość graczy": "4-20",
+        "Długość gry(min)": "30-90",
+        "BGG Trudność": "1.18",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Carpe Diem",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "75",
+      "weight": 2.51,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Carpe Diem",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "75",
+        "BGG Trudność": "2.51",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Churchill",
+      "minPlayers": 3,
+      "maxPlayers": 3,
+      "playTime": "120-240",
+      "weight": 3.37,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Churchill",
+        "Język": "Angielski",
+        "Ilość graczy": "3",
+        "Długość gry(min)": "120-240",
+        "BGG Trudność": "3.37",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Clank",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60",
+      "weight": 2.23,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Clank",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.23",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Colonial",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "120",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Colonial",
+        "Język": "Angielski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Colt Express",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "40",
+      "weight": 1.83,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Colt Express",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "40",
+        "BGG Trudność": "1.83",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Combat Commander",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "120-180",
+      "weight": 3.25,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Combat Commander",
+        "Język": "Angielski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "3.25",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Cooper Island",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "75-150",
+      "weight": 4.17,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Cooper Island",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "75-150",
+        "BGG Trudność": "4.17",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Cosmic encounter",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "60-120",
+      "weight": 2.58,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Cosmic encounter",
+        "Język": "Angielski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "2.58",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Cytadela",
+      "minPlayers": 2,
+      "maxPlayers": 7,
+      "playTime": "20-60",
+      "weight": 2.05,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Cytadela",
+        "Język": "Polski",
+        "Ilość graczy": "2-7",
+        "Długość gry(min)": "20-60",
+        "BGG Trudność": "2.05",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Czarne historie boże narodzenie",
+      "minPlayers": 2,
+      "maxPlayers": 15,
+      "playTime": "45",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Czarne historie boże narodzenie",
+        "Język": "Polski",
+        "Ilość graczy": "2-15",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Czaszk z sedlec",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "20",
+      "weight": 1.25,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Czaszk z sedlec",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.25",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Daj Namiar",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "10",
+      "weight": 1.08,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Daj Namiar",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "10",
+        "BGG Trudność": "1.08",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Defcon 1",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "90-180",
+      "weight": 3.41,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Defcon 1",
+        "Język": "Angielski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "90-180",
+        "BGG Trudność": "3.41",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Defcon 1 Deep dive",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "90-180",
+      "weight": 4.5,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Defcon 1 Deep dive",
+        "Język": "Angielski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "90-180",
+        "BGG Trudność": "4.50",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Democracy under siege",
+      "minPlayers": 2,
+      "maxPlayers": 3,
+      "playTime": "180",
+      "weight": 3.67,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Democracy under siege",
+        "Język": "Angielski",
+        "Ilość graczy": "2-3",
+        "Długość gry(min)": "180",
+        "BGG Trudność": "3.67",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Desert storm the hundred hour war",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "120-240",
+      "weight": 4,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Desert storm the hundred hour war",
+        "Język": "Angielski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "120-240",
+        "BGG Trudność": "4.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Dice Throne Sezon 1 rerolled",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "30",
+      "weight": 2.07,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Dice Throne Sezon 1 rerolled",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.07",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Die Burgen von Burgund",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "120",
+      "weight": 2.98,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Die Burgen von Burgund",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "2.98",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Diune Imperium",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": 3.06,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Diune Imperium",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "3.06",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Dixit odyseja",
+      "minPlayers": 3,
+      "maxPlayers": 12,
+      "playTime": "30",
+      "weight": 1.16,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Dixit odyseja",
+        "Język": "Polski",
+        "Ilość graczy": "3-12",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.16",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Dochodzenie detektyw kontra seryjny zabójca",
+      "minPlayers": 4,
+      "maxPlayers": 12,
+      "playTime": "30",
+      "weight": 1.58,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Dochodzenie detektyw kontra seryjny zabójca",
+        "Język": "Polski",
+        "Ilość graczy": "4-12",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.58",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Domek",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 1.65,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Domek",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.65",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Duuuszki Bądź szybki jak b lyskawica",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "20",
+      "weight": 1.14,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Duuuszki Bądź szybki jak b lyskawica",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.14",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Eksplodujące kotki",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "15",
+      "weight": 1.08,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Eksplodujące kotki",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.08",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "El gaucho",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60",
+      "weight": 2.23,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "El gaucho",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.23",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Enclave zakon krańca świata",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "120",
+      "weight": 3.18,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Enclave zakon krańca świata",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "3.18",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Epic pojedynek",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "20",
+      "weight": 2.67,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Epic pojedynek",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "2.67",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Epic Spell Wars of the battle Wizards",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "30",
+      "weight": 1.56,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Epic Spell Wars of the battle Wizards",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.56",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Europa 1912 wsiąść do pociągu",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "45",
+      "weight": 1.93,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Europa 1912 wsiąść do pociągu",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.93",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Everdell",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "40-80",
+      "weight": 2.82,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Everdell",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "40-80",
+        "BGG Trudność": "2.82",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Explorers",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "20",
+      "weight": 1.89,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Niemiecki",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Explorers",
+        "Język": "Niemiecki",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.89",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Fantastyczne światy",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "20",
+      "weight": 1.8,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Fantastyczne światy",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.8",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Fief 1429",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "120-240",
+      "weight": 3.81,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Fief 1429",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "120-240",
+        "BGG Trudność": "3.81",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Fight Ambre",
+      "minPlayers": 2,
+      "maxPlayers": null,
+      "playTime": "60-120",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Francuski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Fight Ambre",
+        "Język": "Francuski",
+        "Ilość graczy": "2+",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Fight Jack",
+      "minPlayers": 2,
+      "maxPlayers": null,
+      "playTime": "60-12",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Francuski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Fight Jack",
+        "Język": "Francuski",
+        "Ilość graczy": "2+",
+        "Długość gry(min)": "60-12",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Fight Natasha",
+      "minPlayers": 2,
+      "maxPlayers": null,
+      "playTime": "60-120",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Francuski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Fight Natasha",
+        "Język": "Francuski",
+        "Ilość graczy": "2+",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Flick em up Dzika strzelanka",
+      "minPlayers": 2,
+      "maxPlayers": 10,
+      "playTime": "45",
+      "weight": 1.34,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Flick em up Dzika strzelanka",
+        "Język": "Polski",
+        "Ilość graczy": "2-10",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.34",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Gejsze",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "20",
+      "weight": 1.68,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Gejsze",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.68",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Gloom",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "60",
+      "weight": 1.63,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Gloom",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "1.63",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Glory droga do chwaly",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "30/player",
+      "weight": 2.85,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Glory droga do chwaly",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "30/player",
+        "BGG Trudność": "2.85",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "God of war",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "90",
+      "weight": 2.52,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "God of war ",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "90",
+        "BGG Trudność": "2.52",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Gra o tron",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "120-240",
+      "weight": 3.73,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Gra o tron",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "120-240",
+        "BGG Trudność": "3.73",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Grajeczka",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "30",
+      "weight": 1.29,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Grajeczka",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.29",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Grim forest",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60",
+      "weight": 1.93,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Grim forest",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "1.93",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Grzybobranie rajd samochodowy",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "15",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Grzybobranie rajd samochodowy",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Hannabi",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "25",
+      "weight": 1.69,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Hannabi",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "25",
+        "BGG Trudność": "1.69",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Hansa Teutonica",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "40-90",
+      "weight": 3.09,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Hansa Teutonica",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "40-90",
+        "BGG Trudność": "3.09",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Hearts and minds vietnam 1965-1975",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "playTime": "60-600",
+      "weight": 2.76,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Hearts and minds vietnam 1965-1975",
+        "Język": "Angielski",
+        "Ilość graczy": "1-2",
+        "Długość gry(min)": "60-600",
+        "BGG Trudność": "2.76",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Iki",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-90",
+      "weight": 3.04,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Iki",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "3.04",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Imperial Struggle",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "120",
+      "weight": 4.06,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Imperial Struggle",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "4.06",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Jak Wściekłe psy",
+      "minPlayers": 6,
+      "maxPlayers": 12,
+      "playTime": "45-60",
+      "weight": 1.06,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Jak Wściekłe psy",
+        "Język": "Polski",
+        "Ilość graczy": "6-12",
+        "Długość gry(min)": "45-60",
+        "BGG Trudność": "1.06",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Jednym słowem",
+      "minPlayers": 3,
+      "maxPlayers": 7,
+      "playTime": "20",
+      "weight": 1.04,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Jednym słowem",
+        "Język": "Polski",
+        "Ilość graczy": "3-7",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.04",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Joan of arc",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "120",
+      "weight": 2.54,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Joan of arc",
+        "Język": "Angielski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "2.54",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Joking Hazard",
+      "minPlayers": 3,
+      "maxPlayers": 10,
+      "playTime": "30-90",
+      "weight": 1.02,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Joking Hazard",
+        "Język": "Polski",
+        "Ilość graczy": "3-10",
+        "Długość gry(min)": "30-90",
+        "BGG Trudność": "1.02",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Jolly Roger Piracka gra o łupach i buntach",
+      "minPlayers": 4,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": 1.94,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Jolly Roger Piracka gra o łupach i buntach",
+        "Język": "Polski",
+        "Ilość graczy": "4-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.94",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Jorvik",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "60-90",
+      "weight": 2.38,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Jorvik",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "2.38",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Jungle speed",
+      "minPlayers": 2,
+      "maxPlayers": 10,
+      "playTime": "10",
+      "weight": 1.13,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Jungle speed",
+        "Język": "Polski",
+        "Ilość graczy": "2-10",
+        "Długość gry(min)": "10",
+        "BGG Trudność": "1.13",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kartografowie",
+      "minPlayers": 1,
+      "maxPlayers": 100,
+      "playTime": "30",
+      "weight": 1.88,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kartografowie",
+        "Język": "Polski",
+        "Ilość graczy": "1-100",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.88",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Karty dżentelmenów 1",
+      "minPlayers": 3,
+      "maxPlayers": 15,
+      "playTime": "30",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Karty dżentelmenów 1",
+        "Język": "Polski",
+        "Ilość graczy": "3-15",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Karty dżentelmenów 2",
+      "minPlayers": 3,
+      "maxPlayers": 15,
+      "playTime": "30",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Karty dżentelmenów 2",
+        "Język": "Polski",
+        "Ilość graczy": "3-15",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Keyflower",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "90-120",
+      "weight": 3.34,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Keyflower",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "3.34",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kibole wyjazd na mecz",
+      "minPlayers": null,
+      "maxPlayers": null,
+      "playTime": null,
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kibole wyjazd na mecz",
+        "Język": "Polski",
+        "Ilość graczy": "",
+        "Długość gry(min)": "",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Klub Detektywów",
+      "minPlayers": 4,
+      "maxPlayers": 8,
+      "playTime": "45",
+      "weight": 1.24,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Klub Detektywów",
+        "Język": "Polski",
+        "Ilość graczy": "4-8",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kłamcianka",
+      "minPlayers": 3,
+      "maxPlayers": 7,
+      "playTime": null,
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kłamcianka",
+        "Język": "Polski",
+        "Ilość graczy": "3-7",
+        "Długość gry(min)": "",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Komiks Gra karciana",
+      "minPlayers": 3,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Komiks Gra karciana",
+        "Język": "Polski",
+        "Ilość graczy": "3-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kości obfitości",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 1.34,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kości obfitości",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.34",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kraina snów",
+      "minPlayers": 4,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": 1.19,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kraina snów",
+        "Język": "Polski",
+        "Ilość graczy": "4-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.19",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Kruki",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "20",
+      "weight": 1.23,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Kruki",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.23",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "La Cosa Nostra",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "90",
+      "weight": 2.61,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "La Cosa Nostra",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "90",
+        "BGG Trudność": "2.61",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Labirynt słów",
+      "minPlayers": 4,
+      "maxPlayers": 8,
+      "playTime": "30",
+      "weight": 1.43,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Labirynt słów",
+        "Język": "Polski",
+        "Ilość graczy": "4-8",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.43",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Legendary encounters",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "30-60",
+      "weight": 2.71,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Legendary encounters",
+        "Język": "Angielski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.71",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Lewis and Clark",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "30/player",
+      "weight": 3.32,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Lewis and Clark",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "30/player",
+        "BGG Trudność": "3.32",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Liberty of Death the american insurrection",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "180-360",
+      "weight": 4.07,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Liberty of Death the american insurrection",
+        "Język": "Angielski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "180-360",
+        "BGG Trudność": "4.07",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "List miłosny",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "20",
+      "weight": 1.18,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "List miłosny",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.18",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Loyang",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Loyang",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Łowcy kryształow",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "45",
+      "weight": 2.69,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Łowcy kryształow",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.69",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mafia",
+      "minPlayers": 7,
+      "maxPlayers": 22,
+      "playTime": "30-60",
+      "weight": 1.29,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mafia",
+        "Język": "Polski",
+        "Ilość graczy": "7-22",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "1.29",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Majesty",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "20-30",
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Majesty",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "20-30",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mamy szpiega",
+      "minPlayers": 3,
+      "maxPlayers": 8,
+      "playTime": "15-30",
+      "weight": 1.24,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mamy szpiega",
+        "Język": "Polski",
+        "Ilość graczy": "3-8",
+        "Długość gry(min)": "15-30",
+        "BGG Trudność": "1.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Marvel Xmen bunt mutantów",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "60-120",
+      "weight": 3.22,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Marvel Xmen bunt mutantów",
+        "Język": "Polski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "3.22",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Massive Darkness 2 Hellspace",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "120",
+      "weight": 2.74,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Massive Darkness 2 Hellspace",
+        "Język": "Polski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "120",
+        "BGG Trudność": "2.74",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Master of Orion",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "40-60",
+      "weight": 2.43,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Master of Orion",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "40-60",
+        "BGG Trudność": "2.43",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Metro 2033",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "80",
+      "weight": 2.64,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Metro 2033",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "80",
+        "BGG Trudność": "2.64",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mindtrap",
+      "minPlayers": 2,
+      "maxPlayers": 16,
+      "playTime": "60",
+      "weight": 1.94,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mindtrap",
+        "Język": "Angielski",
+        "Ilość graczy": "2-16",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "1.94",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mini cywilizacja",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "30",
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mini cywilizacja",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mistakos walka o stołki",
+      "minPlayers": 1,
+      "maxPlayers": 99,
+      "playTime": "20",
+      "weight": 1.03,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mistakos walka o stołki",
+        "Język": "Polski",
+        "Ilość graczy": "1-99",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.03",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mistfall",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 3.95,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mistfall",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "3.95",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mr House",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60",
+      "weight": 2.63,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mr House",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.63",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Mr Jack pocket",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "15",
+      "weight": 1.82,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Mr Jack pocket",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.82",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Neuroshima Hex",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "40",
+      "weight": 2.61,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Neuroshima Hex",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "40",
+        "BGG Trudność": "2.61",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Nie testowalśmy tego wcale",
+      "minPlayers": 2,
+      "maxPlayers": 10,
+      "playTime": "10",
+      "weight": 1.06,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Nie testowalśmy tego wcale",
+        "Język": "Polski",
+        "Ilość graczy": "2-10",
+        "Długość gry(min)": "10",
+        "BGG Trudność": "1.06",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Nowy Jork 1901",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30-60",
+      "weight": 2.05,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Nowy Jork 1901",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.05",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Odmęty Grozy",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "120-240",
+      "weight": 3.12,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Odmęty Grozy",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "120-240",
+        "BGG Trudność": "3.12",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Palec Boży",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "40",
+      "weight": 1.24,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Palec Boży",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "40",
+        "BGG Trudność": "1.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pan lodowego ogrodu",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "90-150",
+      "weight": 4.07,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Niemiecki",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pan lodowego ogrodu",
+        "Język": "Niemiecki",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "90-150",
+        "BGG Trudność": "4.07",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pan tu nie stał demoludy",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "30",
+      "weight": 1.3,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pan tu nie stał demoludy",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.30",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pandemic",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "45",
+      "weight": 2.4,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pandemic",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.40",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pangea",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "90-120",
+      "weight": 3.17,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pangea",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "3.17",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pełny kurnik",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "15-30",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pełny kurnik",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "15-30",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pictomania",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "25",
+      "weight": 1.53,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pictomania",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "25",
+        "BGG Trudność": "1.53",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Podaj dalej",
+      "minPlayers": 4,
+      "maxPlayers": 8,
+      "playTime": null,
+      "weight": 1.07,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Podaj dalej",
+        "Język": "Polski",
+        "Ilość graczy": "4-8",
+        "Długość gry(min)": "",
+        "BGG Trudność": "1.07",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Podaj dalej bez cenzury",
+      "minPlayers": 4,
+      "maxPlayers": 8,
+      "playTime": "30",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Podaj dalej bez cenzury",
+        "Język": "Polski",
+        "Ilość graczy": "4-8",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Polska gola",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "15",
+      "weight": 1.04,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Polska gola",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.04",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Poprzez wieki droga do szaleństwa",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "20",
+      "weight": 1.49,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Poprzez wieki droga do szaleństwa",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.49",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Poszły konie",
+      "minPlayers": 2,
+      "maxPlayers": 9,
+      "playTime": "45-60",
+      "weight": 1.33,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Poszły konie",
+        "Język": "Polski",
+        "Ilość graczy": "2-9",
+        "Długość gry(min)": "45-60",
+        "BGG Trudność": "1.33",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Pośród gwiazd",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 2.24,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Pośród gwiazd",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Praga caput regni",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "45-150",
+      "weight": 3.74,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Praga caput regni",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "45-150",
+        "BGG Trudność": "3.74",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Prezencik",
+      "minPlayers": 3,
+      "maxPlayers": 7,
+      "playTime": "15-20",
+      "weight": 1.13,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Prezencik",
+        "Język": "Polski",
+        "Ilość graczy": "3-7",
+        "Długość gry(min)": "15-20",
+        "BGG Trudność": "1.13",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Przebiegłe wielbłądy wszystko na jedną kartę",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "30-60",
+      "weight": 1.73,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Przebiegłe wielbłądy wszystko na jedną kartę",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "1.73",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Quoridor",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "15",
+      "weight": 1.82,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Marcin",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Quoridor",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.82",
+        "Własność": "Marcin"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race for the galaxy",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30-60",
+      "weight": 2.99,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race for the galaxy",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.99",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race for the galaxy gathering storm",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "30-60",
+      "weight": 2.99,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race for the galaxy gathering storm",
+        "Język": "Angielski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.99",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race for the galaxy narodziny imperium",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30-60",
+      "weight": 2.99,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race for the galaxy narodziny imperium",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.99",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race for the galaxy rebel kontra imperium",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "30-60",
+      "weight": 2.99,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race for the galaxy rebel kontra imperium",
+        "Język": "Angielski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.99",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race for the galaxy rebel xeno invasion",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "30-60",
+      "weight": 2.99,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race for the galaxy rebel xeno invasion",
+        "Język": "Angielski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.99",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Race to Berlin 1945",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "150",
+      "weight": 2.75,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Race to Berlin 1945",
+        "Język": "Angielski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "150",
+        "BGG Trudność": "2.75",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Red 7",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "5-30",
+      "weight": 1.7,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Red 7",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "5-30",
+        "BGG Trudność": "1.70",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Rising Sun",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "120-180",
+      "weight": 3.3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Rising Sun",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "3.30",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Road rally usa",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "45",
+      "weight": 1.83,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Angielski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Road rally usa",
+        "Język": "Angielski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.83",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Root",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-90",
+      "weight": 3.81,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Root",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-90",
+        "BGG Trudność": "3.81",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Rummicube",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "20",
+      "weight": 1.72,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Rummicube",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.72",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Rune Age",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "20-60",
+      "weight": 2.28,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Rune Age",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "20-60",
+        "BGG Trudność": "2.28",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Sabotażysta",
+      "minPlayers": 3,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": 1.32,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Sabotażysta",
+        "Język": "Polski",
+        "Ilość graczy": "3-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.32",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Sabotażysta",
+      "minPlayers": 3,
+      "maxPlayers": 10,
+      "playTime": "30",
+      "weight": 1.32,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Sabotażysta",
+        "Język": "Polski",
+        "Ilość graczy": "3-10",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.32",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Sabotażysta rozszerzenie",
+      "minPlayers": 2,
+      "maxPlayers": 12,
+      "playTime": "30",
+      "weight": 1.54,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Sabotażysta rozszerzenie",
+        "Język": "Polski",
+        "Ilość graczy": "2-12",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.54",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Santa Maria",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "45-90",
+      "weight": 3.03,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Santa Maria",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "45-90",
+        "BGG Trudność": "3.03",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Santa monica",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "45",
+      "weight": 2.13,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Santa monica",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.13",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Scythe Fenris Powstaje",
+      "minPlayers": 1,
+      "maxPlayers": 7,
+      "playTime": "75-150",
+      "weight": 3.41,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Scythe Fenris Powstaje",
+        "Język": "Polski",
+        "Ilość graczy": "1-7",
+        "Długość gry(min)": "75-150",
+        "BGG Trudność": "3.41",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Scythe the wind gambit",
+      "minPlayers": 1,
+      "maxPlayers": 7,
+      "playTime": "70-140",
+      "weight": 3.42,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Scythe the wind gambit",
+        "Język": "Angielski",
+        "Ilość graczy": "1-7",
+        "Długość gry(min)": "70-140",
+        "BGG Trudność": "3.42",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Seafall",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "playTime": "90-120",
+      "weight": 3.81,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Seafall",
+        "Język": "Polski",
+        "Ilość graczy": "3-5",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "3.81",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Skull",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "15-30",
+      "weight": 1.11,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Skull",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "15-30",
+        "BGG Trudność": "1.11",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Słowny ninja",
+      "minPlayers": 1,
+      "maxPlayers": null,
+      "playTime": "20",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Słowny ninja",
+        "Język": "Polski",
+        "Ilość graczy": "1+",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Small World Warcraft",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "40-80",
+      "weight": 2.66,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Small World Warcraft",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "40-80",
+        "BGG Trudność": "2.66",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Spartakus",
+      "minPlayers": 3,
+      "maxPlayers": 4,
+      "playTime": "120-180",
+      "weight": 2.73,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Spartakus",
+        "Język": "Polski",
+        "Ilość graczy": "3-4",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "2.73",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Star Wars x-wing",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "30-45",
+      "weight": 3.09,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Star Wars x-wing",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "30-45",
+        "BGG Trudność": "3.09",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Stars Wars The Deckbuilding game",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "30",
+      "weight": 2.03,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Stars Wars The Deckbuilding game",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.03",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Stars Wars zewnętrzne rubieże",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "120-180",
+      "weight": 2.57,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Stars Wars zewnętrzne rubieże",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "2.57",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Stars Wars zewnętrzne rubieże niedokończone sprawy",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "120-180",
+      "weight": 2.82,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Stars Wars zewnętrzne rubieże niedokończone sprawy",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "2.82",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Stella dixit",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "30",
+      "weight": 1.13,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Stella dixit",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.13",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Strażniczki",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "30-45",
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Strażniczki",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "30-45",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Studium w szmaragdzie",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "60",
+      "weight": 2.94,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Studium w szmaragdzie",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.94",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Stwór",
+      "minPlayers": 4,
+      "maxPlayers": 12,
+      "playTime": "15-60",
+      "weight": 1.24,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Stwór",
+        "Język": "Polski",
+        "Ilość graczy": "4-12",
+        "Długość gry(min)": "15-60",
+        "BGG Trudność": "1.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Successors",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "180-300",
+      "weight": 4.1,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Successors",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "180-300",
+        "BGG Trudność": "4.10",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Sushi go party",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "20",
+      "weight": 1.31,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Sushi go party",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.31",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Suspend",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "15",
+      "weight": 1,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Suspend",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Szalona Misja",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "20",
+      "weight": 1.19,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Szalona Misja",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "20",
+        "BGG Trudność": "1.19",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Świat dysku sekary",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 2.6,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Świat dysku sekary",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "2.60",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Taboo",
+      "minPlayers": 4,
+      "maxPlayers": null,
+      "playTime": "30",
+      "weight": 1.21,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Taboo",
+        "Język": "Polski",
+        "Ilość graczy": "4+",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.21",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tajne agentki",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "15-30",
+      "weight": 2.03,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tajne agentki",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "15-30",
+        "BGG Trudność": "2.03",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tajniacy",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "15",
+      "weight": 1.26,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tajniacy",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.26",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tajniacy bez cenzury",
+      "minPlayers": 4,
+      "maxPlayers": 8,
+      "playTime": "15+",
+      "weight": 1.32,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tajniacy bez cenzury",
+        "Język": "Polski",
+        "Ilość graczy": "4-8",
+        "Długość gry(min)": "15+",
+        "BGG Trudność": "1.32",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tajniacy obrazki",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "playTime": "15",
+      "weight": 1.24,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tajniacy obrazki",
+        "Język": "Polski",
+        "Ilość graczy": "2-8",
+        "Długość gry(min)": "15",
+        "BGG Trudność": "1.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Talisman Batman",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "90+",
+      "weight": 2,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Talisman Batman",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "90+",
+        "BGG Trudność": "2.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tapestry sztuka i architektura",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "90-120",
+      "weight": 3.28,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Marcin",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tapestry sztuka i architektura",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "3.28",
+        "Własność": "Marcin"
+      }
+    },
+    {
+      "id": null,
+      "name": "Terraformacja Marsa",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "90-120",
+      "weight": 3.27,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Terraformacja Marsa",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "90-120",
+        "BGG Trudność": "3.27",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Terrors of London",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "20-40",
+      "weight": 2.21,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Terrors of London",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "20-40",
+        "BGG Trudność": "2.21",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "The Court of Miracles",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "40",
+      "weight": 2.15,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "The Court of Miracles",
+        "Język": "Angielski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "40",
+        "BGG Trudność": "2.15",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "The human punishment the beginning",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": "120-180",
+      "weight": 3.56,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "The human punishment the beginning",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "120-180",
+        "BGG Trudność": "3.56",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Times up celebrity",
+      "minPlayers": 4,
+      "maxPlayers": 12,
+      "playTime": "45",
+      "weight": 1.08,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Times up celebrity",
+        "Język": "Polski",
+        "Ilość graczy": "4-12",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.08",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Times up family",
+      "minPlayers": 4,
+      "maxPlayers": 12,
+      "playTime": "30",
+      "weight": 1.11,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Times up family",
+        "Język": "Polski",
+        "Ilość graczy": "4-12",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.11",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Tiny towns",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "45",
+      "weight": 2.06,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Tiny towns",
+        "Język": "Angielski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.06",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Total domination",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "90",
+      "weight": 3,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Total domination",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "90",
+        "BGG Trudność": "3.00",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Total domination deluxe set",
+      "minPlayers": null,
+      "maxPlayers": null,
+      "playTime": null,
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Total domination deluxe set",
+        "Język": "Angielski",
+        "Ilość graczy": "",
+        "Długość gry(min)": "",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Turbo",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "60",
+      "weight": 2.19,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Turbo",
+        "Język": "Polski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "60",
+        "BGG Trudność": "2.19",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Ubongo 3d",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "25",
+      "weight": 1.94,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Ubongo 3d",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "25",
+        "BGG Trudność": "1.94",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Unmatched bruk i mgła",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "30",
+      "weight": 1.97,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Unmatched bruk i mgła",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.97",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Valeria wyprawy",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "playTime": "45",
+      "weight": 2.17,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Valeria wyprawy",
+        "Język": "Polski",
+        "Ilość graczy": "1-5",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "2.17",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Valhalla",
+      "minPlayers": 2,
+      "maxPlayers": 6,
+      "playTime": "30-60",
+      "weight": 2.09,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Valhalla",
+        "Język": "Polski",
+        "Ilość graczy": "2-6",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "2.09",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Vasco da gama",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": 3.24,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Vasco da gama",
+        "Język": "Polski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "3.24",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Versailles 1919",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "60-120",
+      "weight": 2.85,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Versailles 1919",
+        "Język": "Angielski",
+        "Ilość graczy": "2-4",
+        "Długość gry(min)": "60-120",
+        "BGG Trudność": "2.85",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Viticulture",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "45-90",
+      "weight": 2.94,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Viticulture",
+        "Język": "Polski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "45-90",
+        "BGG Trudność": "2.94",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Weimar",
+      "minPlayers": 4,
+      "maxPlayers": 4,
+      "playTime": "360",
+      "weight": 3.91,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Weimar",
+        "Język": "Angielski",
+        "Ilość graczy": "4",
+        "Długość gry(min)": "360",
+        "BGG Trudność": "3.91",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wir sind das volk",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "150",
+      "weight": 3.74,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wir sind das volk",
+        "Język": "Angielski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "150",
+        "BGG Trudność": "3.74",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wir sind das volk dodatek",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "playTime": "150",
+      "weight": 3.67,
+      "difficulty": {
+        "key": "hard",
+        "label": "Trudny"
+      },
+      "language": "Angielski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wir sind das volk dodatek",
+        "Język": "Angielski",
+        "Ilość graczy": "2,4",
+        "Długość gry(min)": "150",
+        "BGG Trudność": "3.67",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Władca pierścieni",
+      "minPlayers": 1,
+      "maxPlayers": 2,
+      "playTime": "30-90",
+      "weight": 2.54,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Władca pierścieni",
+        "Język": "Polski",
+        "Ilość graczy": "1-2",
+        "Długość gry(min)": "30-90",
+        "BGG Trudność": "2.54",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wojownicy podziemi 2 edycja",
+      "minPlayers": 1,
+      "maxPlayers": 6,
+      "playTime": "45",
+      "weight": 1.72,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wojownicy podziemi 2 edycja",
+        "Język": "Polski",
+        "Ilość graczy": "1-6",
+        "Długość gry(min)": "45",
+        "BGG Trudność": "1.72",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wsiąść do pociągu europa",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "30-60",
+      "weight": 1.92,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wsiąść do pociągu europa",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "30-60",
+        "BGG Trudność": "1.92",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wyspa kwitnącej wiśni",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "playTime": "30",
+      "weight": 1.93,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wyspa kwitnącej wiśni",
+        "Język": "Polski",
+        "Ilość graczy": "2-5",
+        "Długość gry(min)": "30",
+        "BGG Trudność": "1.93",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Wystrzałowe katapulty",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "playTime": "30-45",
+      "weight": 1.08,
+      "difficulty": {
+        "key": "easy",
+        "label": "Łatwy"
+      },
+      "language": "Polski",
+      "owner": "Szczep",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Wystrzałowe katapulty",
+        "Język": "Polski",
+        "Ilość graczy": "2",
+        "Długość gry(min)": "30-45",
+        "BGG Trudność": "1.08",
+        "Własność": "Szczep"
+      }
+    },
+    {
+      "id": null,
+      "name": "Zaginiona wyspa arnak",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "playTime": "30/gracz",
+      "weight": 2.93,
+      "difficulty": {
+        "key": "medium",
+        "label": "Średni"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Zaginiona wyspa arnak",
+        "Język": "Polski",
+        "Ilość graczy": "1-4",
+        "Długość gry(min)": "30/gracz",
+        "BGG Trudność": "2.93",
+        "Własność": "Grota"
+      }
+    },
+    {
+      "id": null,
+      "name": "Zgroza xD",
+      "minPlayers": 3,
+      "maxPlayers": 6,
+      "playTime": null,
+      "weight": null,
+      "difficulty": {
+        "key": "unknown",
+        "label": "Nieznany"
+      },
+      "language": "Polski",
+      "owner": "Grota",
+      "imageUrl": null,
+      "raw": {
+        "Nazwa gry": "Zgroza xD",
+        "Język": "Polski",
+        "Ilość graczy": "3-6",
+        "Długość gry(min)": "",
+        "BGG Trudność": "",
+        "Własność": "Grota"
+      }
+    }
+  ]
+}

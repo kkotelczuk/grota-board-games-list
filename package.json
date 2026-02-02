@@ -1,0 +1,31 @@
+{
+  "name": "grota-board-games-list",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run fetch:data && astro build",
+    "preview": "astro preview",
+    "fetch:data": "node scripts/fetch-data.mjs",
+    "check": "astro check",
+    "lint": "eslint .",
+    "format": "prettier . --write"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "dotenv": "^17.2.3",
+    "papaparse": "latest"
+  },
+  "devDependencies": {
+    "@astrojs/check": "latest",
+    "eslint": "latest",
+    "eslint-plugin-astro": "latest",
+    "prettier": "latest",
+    "prettier-plugin-astro": "latest",
+    "typescript": "latest"
+  }
+}
