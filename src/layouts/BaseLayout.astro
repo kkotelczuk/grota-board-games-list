@@ -1,16 +1,47 @@
 ---
-const { title = "Grota – Board Games" } = Astro.props;
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Grota – Katalog gier planszowych",
+  description = "Przeglądaj katalog gier planszowych dostępnych w lokalu Grota w Gdańsku. Filtruj po liczbie graczy, trudności i wyszukuj po nazwie.",
+} = Astro.props;
 ---
 
 <!doctype html>
-<html lang="pl">
+<html lang="pl" class="scroll-smooth">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta
+      name="theme-color"
+      content="#ffffff"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#0a0a0a"
+      media="(prefers-color-scheme: dark)"
+    />
     <title>{title}</title>
-    <link rel="stylesheet" href="/src/styles/global.css" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   </head>
-  <body>
+  <body class="min-h-screen flex flex-col">
     <slot />
+    <script is:inline>
+      // Initialize theme from localStorage or system preference
+      (function () {
+        const stored = localStorage.getItem("grota-theme");
+        if (
+          stored === "dark" ||
+          (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches)
+        ) {
+          document.documentElement.classList.add("dark");
+        }
+      })();
+    </script>
   </body>
 </html>

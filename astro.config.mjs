@@ -1,6 +1,13 @@
 import { defineConfig } from "astro/config";
+import react from "@astrojs/react";
+import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  site: process.env.SITE_URL || "https://example.github.io/grota-board-games-list",
-  output: "static"
+  site:
+    process.env.SITE_URL || "https://example.github.io/grota-board-games-list",
+  output: "static",
+  integrations: [react()],
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });

@@ -1,37 +1,15 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Header from "../components/Header.astro";
-import data from "../data/games.json";
+import { GamesContainer } from "../components/GamesContainer";
+import { Footer } from "../components/Footer";
+import "../styles/global.css";
 
-const games = (data as {
-  games: Array<{
-    name: string;
-    minPlayers?: number | null;
-    maxPlayers?: number | null;
-    playTime?: string | null;
-    difficulty?: { label?: string | null } | null;
-  }>;
-}).games;
+// Get last updated timestamp from data
+import data from "../data/games.json";
+const lastUpdated = (data as { updatedAt?: string }).updatedAt;
 ---
 
-<BaseLayout title="Grota – Lista gier">
-  <Header total={games.length} />
-  <main class="container">
-    {games.length === 0 ? (
-      <p>Brak danych – uruchom `npm run fetch:data`.</p>
-    ) : (
-      <section class="games-grid">
-        {games.map((game) => (
-          <article class="card">
-            <h3>{game.name}</h3>
-            <p>
-              Gracze: {game.minPlayers ?? "?"}-{game.maxPlayers ?? "?"}
-            </p>
-            <p>Czas: {game.playTime ?? "?"}</p>
-            <p>Trudność: {game.difficulty?.label ?? "?"}</p>
-          </article>
-        ))}
-      </section>
-    )}
-  </main>
+<BaseLayout>
+  <GamesContainer client:load />
+  <Footer lastUpdated={lastUpdated} client:load />
 </BaseLayout>
