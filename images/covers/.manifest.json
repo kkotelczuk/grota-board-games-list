@@ -1,0 +1,1421 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-02-10T13:39:54.466Z",
+  "covers": {
+    "1941-race-to-moscow": {
+      "gameName": "1941 Race to Moscow",
+      "bggId": "190572",
+      "filename": "1941-race-to-moscow.jpg",
+      "fetchedAt": "2026-02-10T13:23:36.060Z",
+      "source": "bgg"
+    },
+    "1989-jesien-narodow": {
+      "gameName": "1989 Jesień narodów",
+      "bggId": "26997",
+      "filename": "1989-jesien-narodow.jpg",
+      "fetchedAt": "2026-02-10T13:23:39.242Z",
+      "source": "bgg"
+    },
+    "7-cudow-swiata": {
+      "gameName": "7 Cudów świata",
+      "bggId": "143085",
+      "filename": "7-cudow-swiata.png",
+      "fetchedAt": "2026-02-10T13:23:42.748Z",
+      "source": "bgg"
+    },
+    "7-cudow-swiata-pojedynek": {
+      "gameName": "7 cudów świata pojedynek",
+      "bggId": "173346",
+      "filename": "7-cudow-swiata-pojedynek.jpg",
+      "fetchedAt": "2026-02-10T13:23:45.917Z",
+      "source": "bgg"
+    },
+    "achaja": {
+      "gameName": "Achaja",
+      "bggId": "177857",
+      "filename": "achaja.jpg",
+      "fetchedAt": "2026-02-10T13:23:49.195Z",
+      "source": "bgg"
+    },
+    "adrenaline": {
+      "gameName": "Adrenaline",
+      "bggId": "202408",
+      "filename": "adrenaline.jpg",
+      "fetchedAt": "2026-02-10T13:23:52.459Z",
+      "source": "bgg"
+    },
+    "akademia-smoczych-wrot": {
+      "gameName": "Akademia smoczych wrót",
+      "bggId": "184704",
+      "filename": "akademia-smoczych-wrot.png",
+      "fetchedAt": "2026-02-10T13:23:55.716Z",
+      "source": "bgg"
+    },
+    "alchemicy": {
+      "gameName": "Alchemicy",
+      "bggId": "161970",
+      "filename": "alchemicy.png",
+      "fetchedAt": "2026-02-10T13:23:58.987Z",
+      "source": "bgg"
+    },
+    "ark-nova": {
+      "gameName": "Ark Nova",
+      "bggId": "342942",
+      "filename": "ark-nova.jpg",
+      "fetchedAt": "2026-02-10T13:24:02.193Z",
+      "source": "bgg"
+    },
+    "atlantis-island-of-gods": {
+      "gameName": "Atlantis island of gods",
+      "bggId": "253766",
+      "filename": "atlantis-island-of-gods.jpg",
+      "fetchedAt": "2026-02-10T13:24:05.484Z",
+      "source": "bgg"
+    },
+    "avalon": {
+      "gameName": "Avalon",
+      "bggId": "1862",
+      "filename": "avalon.jpg",
+      "fetchedAt": "2026-02-10T13:24:08.693Z",
+      "source": "bgg"
+    },
+    "bankrut": {
+      "gameName": "Bankrut",
+      "bggId": "357174",
+      "filename": "bankrut.jpg",
+      "fetchedAt": "2026-02-10T13:24:12.041Z",
+      "source": "bgg"
+    },
+    "battle-of-britain": {
+      "gameName": "Battle of Britain",
+      "bggId": "407396",
+      "filename": "battle-of-britain.png",
+      "fetchedAt": "2026-02-10T13:24:15.258Z",
+      "source": "bgg"
+    },
+    "black-mirror-nosedive": {
+      "gameName": "Black mirror NOSEDIVE",
+      "bggId": "265316",
+      "filename": "black-mirror-nosedive.jpg",
+      "fetchedAt": "2026-02-10T13:24:18.426Z",
+      "source": "bgg"
+    },
+    "black-orchestra": {
+      "gameName": "Black Orchestra",
+      "bggId": "156858",
+      "filename": "black-orchestra.png",
+      "fetchedAt": "2026-02-10T13:24:21.668Z",
+      "source": "bgg"
+    },
+    "blok-ekipa-szacun-na-rejonie": {
+      "gameName": "Blok ekipa Szacun na rejonie",
+      "bggId": "388999",
+      "filename": "blok-ekipa-szacun-na-rejonie.jpg",
+      "fetchedAt": "2026-02-10T13:24:24.906Z",
+      "source": "bgg"
+    },
+    "bora-bora": {
+      "gameName": "Bora bora",
+      "bggId": "279875",
+      "filename": "bora-bora.jpg",
+      "fetchedAt": "2026-02-10T13:24:28.264Z",
+      "source": "bgg"
+    },
+    "boss-monster": {
+      "gameName": "Boss Monster",
+      "bggId": "174973",
+      "filename": "boss-monster.jpg",
+      "fetchedAt": "2026-02-10T13:24:31.845Z",
+      "source": "bgg"
+    },
+    "boss-monster-next-level": {
+      "gameName": "Boss Monster next level",
+      "bggId": "174973",
+      "filename": "boss-monster-next-level.jpg",
+      "fetchedAt": "2026-02-10T13:24:35.024Z",
+      "source": "bgg"
+    },
+    "brian-boru": {
+      "gameName": "Brian Boru",
+      "bggId": "337765",
+      "filename": "brian-boru.jpg",
+      "fetchedAt": "2026-02-10T13:24:41.634Z",
+      "source": "bgg"
+    },
+    "brother-and-unity": {
+      "gameName": "Brother and Unity",
+      "bggId": "255570",
+      "filename": "brother-and-unity.jpg",
+      "fetchedAt": "2026-02-10T13:24:45.347Z",
+      "source": "bgg"
+    },
+    "brzdek": {
+      "gameName": "Brzdęk",
+      "bggId": "257276",
+      "filename": "brzdek.png",
+      "fetchedAt": "2026-02-10T13:24:49.074Z",
+      "source": "bgg"
+    },
+    "budowa-miasta": {
+      "gameName": "Budowa Miasta",
+      "bggId": "177875",
+      "filename": "budowa-miasta.png",
+      "fetchedAt": "2026-02-10T13:24:52.351Z",
+      "source": "bgg"
+    },
+    "burning-banners": {
+      "gameName": "Burning Banners",
+      "bggId": "389820",
+      "filename": "burning-banners.png",
+      "fetchedAt": "2026-02-10T13:24:55.703Z",
+      "source": "bgg"
+    },
+    "camel-up-po-zawodach": {
+      "gameName": "Camel up po zawodach",
+      "bggId": "335271",
+      "filename": "camel-up-po-zawodach.jpg",
+      "fetchedAt": "2026-02-10T13:24:59.204Z",
+      "source": "bgg"
+    },
+    "captain-sonar": {
+      "gameName": "Captain Sonar",
+      "bggId": "171131",
+      "filename": "captain-sonar.jpg",
+      "fetchedAt": "2026-02-10T13:25:02.352Z",
+      "source": "bgg"
+    },
+    "captains-log": {
+      "gameName": "Captains Log",
+      "bggId": "434339",
+      "filename": "captains-log.jpg",
+      "fetchedAt": "2026-02-10T13:25:05.578Z",
+      "source": "bgg"
+    },
+    "carpe-diem": {
+      "gameName": "Carpe Diem",
+      "bggId": "245934",
+      "filename": "carpe-diem.jpg",
+      "fetchedAt": "2026-02-10T13:25:16.818Z",
+      "source": "bgg"
+    },
+    "churchill": {
+      "gameName": "Churchill",
+      "bggId": "132018",
+      "filename": "churchill.jpg",
+      "fetchedAt": "2026-02-10T13:25:23.102Z",
+      "source": "bgg"
+    },
+    "colonial": {
+      "gameName": "Colonial",
+      "bggId": "36240",
+      "filename": "colonial.jpg",
+      "fetchedAt": "2026-02-10T13:25:30.667Z",
+      "source": "bgg"
+    },
+    "colt-express": {
+      "gameName": "Colt Express",
+      "bggId": "158899",
+      "filename": "colt-express.jpg",
+      "fetchedAt": "2026-02-10T13:25:37.073Z",
+      "source": "bgg"
+    },
+    "combat-commander": {
+      "gameName": "Combat Commander",
+      "bggId": "17061",
+      "filename": "combat-commander.jpg",
+      "fetchedAt": "2026-02-10T13:25:43.432Z",
+      "source": "bgg"
+    },
+    "cooper-island": {
+      "gameName": "Cooper Island",
+      "bggId": "269511",
+      "filename": "cooper-island.jpg",
+      "fetchedAt": "2026-02-10T13:25:46.610Z",
+      "source": "bgg"
+    },
+    "cosmic-encounter": {
+      "gameName": "Cosmic encounter",
+      "bggId": "15",
+      "filename": "cosmic-encounter.jpg",
+      "fetchedAt": "2026-02-10T13:25:53.080Z",
+      "source": "bgg"
+    },
+    "cytadela": {
+      "gameName": "Cytadela",
+      "bggId": "478",
+      "filename": "cytadela.jpg",
+      "fetchedAt": "2026-02-10T13:25:59.314Z",
+      "source": "bgg"
+    },
+    "czarne-historie-boze-narodzenie": {
+      "gameName": "Czarne historie boże narodzenie",
+      "bggId": "111327",
+      "filename": "czarne-historie-boze-narodzenie.jpg",
+      "fetchedAt": "2026-02-10T13:26:02.504Z",
+      "source": "bgg"
+    },
+    "czaszk-z-sedlec": {
+      "gameName": "Czaszk z sedlec",
+      "bggId": "303553",
+      "filename": "czaszk-z-sedlec.png",
+      "fetchedAt": "2026-02-10T13:26:08.768Z",
+      "source": "bgg"
+    },
+    "daj-namiar": {
+      "gameName": "Daj Namiar",
+      "bggId": "300753",
+      "filename": "daj-namiar.jpg",
+      "fetchedAt": "2026-02-10T13:26:15.232Z",
+      "source": "bgg"
+    },
+    "defcon-1": {
+      "gameName": "Defcon 1",
+      "bggId": "258487",
+      "filename": "defcon-1.jpg",
+      "fetchedAt": "2026-02-10T13:26:18.424Z",
+      "source": "bgg"
+    },
+    "defcon-1-deep-dive": {
+      "gameName": "Defcon 1 Deep dive",
+      "bggId": "413434",
+      "filename": "defcon-1-deep-dive.jpg",
+      "fetchedAt": "2026-02-10T13:26:24.750Z",
+      "source": "bgg"
+    },
+    "democracy-under-siege": {
+      "gameName": "Democracy under siege",
+      "bggId": "90568",
+      "filename": "democracy-under-siege.jpg",
+      "fetchedAt": "2026-02-10T13:26:31.020Z",
+      "source": "bgg"
+    },
+    "desert-storm-the-hundred-hour-war": {
+      "gameName": "Desert storm the hundred hour war",
+      "bggId": "387502",
+      "filename": "desert-storm-the-hundred-hour-war.jpg",
+      "fetchedAt": "2026-02-10T13:26:34.299Z",
+      "source": "bgg"
+    },
+    "dice-throne-sezon-1-rerolled": {
+      "gameName": "Dice Throne Sezon 1 rerolled",
+      "bggId": "291794",
+      "filename": "dice-throne-sezon-1-rerolled.jpg",
+      "fetchedAt": "2026-02-10T13:26:40.614Z",
+      "source": "bgg"
+    },
+    "die-burgen-von-burgund": {
+      "gameName": "Die Burgen von Burgund",
+      "bggId": "84876",
+      "filename": "die-burgen-von-burgund.jpg",
+      "fetchedAt": "2026-02-10T13:26:47.044Z",
+      "source": "bgg"
+    },
+    "dixit-odyseja": {
+      "gameName": "Dixit odyseja",
+      "bggId": "92828",
+      "filename": "dixit-odyseja.jpg",
+      "fetchedAt": "2026-02-10T13:26:54.875Z",
+      "source": "bgg"
+    },
+    "dochodzenie-detektyw-kontra-seryjny-zabojca": {
+      "gameName": "Dochodzenie detektyw kontra seryjny zabójca",
+      "bggId": "156129",
+      "filename": "dochodzenie-detektyw-kontra-seryjny-zabojca.jpg",
+      "fetchedAt": "2026-02-10T13:26:58.022Z",
+      "source": "bgg"
+    },
+    "domek": {
+      "gameName": "Domek",
+      "bggId": "194880",
+      "filename": "domek.jpg",
+      "fetchedAt": "2026-02-10T13:27:04.341Z",
+      "source": "bgg"
+    },
+    "eksplodujace-kotki": {
+      "gameName": "Eksplodujące kotki",
+      "bggId": "172225",
+      "filename": "eksplodujace-kotki.png",
+      "fetchedAt": "2026-02-10T13:27:12.206Z",
+      "source": "bgg"
+    },
+    "el-gaucho": {
+      "gameName": "El gaucho",
+      "bggId": "162823",
+      "filename": "el-gaucho.jpg",
+      "fetchedAt": "2026-02-10T13:27:18.584Z",
+      "source": "bgg"
+    },
+    "enclave-zakon-kranca-swiata": {
+      "gameName": "Enclave zakon krańca świata",
+      "bggId": "126274",
+      "filename": "enclave-zakon-kranca-swiata.jpg",
+      "fetchedAt": "2026-02-10T13:27:21.818Z",
+      "source": "bgg"
+    },
+    "epic-pojedynek": {
+      "gameName": "Epic pojedynek",
+      "bggId": "287608",
+      "filename": "epic-pojedynek.jpg",
+      "fetchedAt": "2026-02-10T13:27:28.146Z",
+      "source": "bgg"
+    },
+    "epic-spell-wars-of-the-battle-wizards": {
+      "gameName": "Epic Spell Wars of the battle Wizards",
+      "bggId": "422611",
+      "filename": "epic-spell-wars-of-the-battle-wizards.png",
+      "fetchedAt": "2026-02-10T13:27:34.774Z",
+      "source": "bgg"
+    },
+    "europa-1912-wsiasc-do-pociagu": {
+      "gameName": "Europa 1912 wsiąść do pociągu",
+      "bggId": "53383",
+      "filename": "europa-1912-wsiasc-do-pociagu.jpg",
+      "fetchedAt": "2026-02-10T13:27:37.900Z",
+      "source": "bgg"
+    },
+    "everdell": {
+      "gameName": "Everdell",
+      "bggId": "199792",
+      "filename": "everdell.png",
+      "fetchedAt": "2026-02-10T13:27:44.218Z",
+      "source": "bgg"
+    },
+    "explorers": {
+      "gameName": "Explorers",
+      "bggId": "10854",
+      "filename": "explorers.png",
+      "fetchedAt": "2026-02-10T13:27:50.779Z",
+      "source": "bgg"
+    },
+    "fantastyczne-swiaty": {
+      "gameName": "Fantastyczne światy",
+      "bggId": "223040",
+      "filename": "fantastyczne-swiaty.jpg",
+      "fetchedAt": "2026-02-10T13:27:54.045Z",
+      "source": "bgg"
+    },
+    "fief-1429": {
+      "gameName": "Fief 1429",
+      "bggId": "152470",
+      "filename": "fief-1429.jpg",
+      "fetchedAt": "2026-02-10T13:28:00.298Z",
+      "source": "bgg"
+    },
+    "fight-jack": {
+      "gameName": "Fight Jack",
+      "bggId": "186357",
+      "filename": "fight-jack.jpg",
+      "fetchedAt": "2026-02-10T13:28:08.149Z",
+      "source": "bgg"
+    },
+    "flick-em-up-dzika-strzelanka": {
+      "gameName": "Flick em up Dzika strzelanka",
+      "bggId": "169124",
+      "filename": "flick-em-up-dzika-strzelanka.jpg",
+      "fetchedAt": "2026-02-10T13:28:16.213Z",
+      "source": "bgg"
+    },
+    "gejsze": {
+      "gameName": "Gejsze",
+      "bggId": "158600",
+      "filename": "gejsze.png",
+      "fetchedAt": "2026-02-10T13:28:22.552Z",
+      "source": "bgg"
+    },
+    "gloom": {
+      "gameName": "Gloom",
+      "bggId": "317365",
+      "filename": "gloom.jpg",
+      "fetchedAt": "2026-02-10T13:28:25.834Z",
+      "source": "bgg"
+    },
+    "glory-droga-do-chwaly": {
+      "gameName": "Glory droga do chwaly",
+      "bggId": "206757",
+      "filename": "glory-droga-do-chwaly.jpg",
+      "fetchedAt": "2026-02-10T13:28:32.148Z",
+      "source": "bgg"
+    },
+    "god-of-war": {
+      "gameName": "God of war",
+      "bggId": "289175",
+      "filename": "god-of-war.png",
+      "fetchedAt": "2026-02-10T13:28:38.585Z",
+      "source": "bgg"
+    },
+    "gra-o-tron": {
+      "gameName": "Gra o tron",
+      "bggId": "6472",
+      "filename": "gra-o-tron.jpg",
+      "fetchedAt": "2026-02-10T13:28:42.314Z",
+      "source": "bgg"
+    },
+    "grajeczka": {
+      "gameName": "Grajeczka",
+      "bggId": "220780",
+      "filename": "grajeczka.jpg",
+      "fetchedAt": "2026-02-10T13:28:48.677Z",
+      "source": "bgg"
+    },
+    "grim-forest": {
+      "gameName": "Grim forest",
+      "bggId": "212402",
+      "filename": "grim-forest.jpg",
+      "fetchedAt": "2026-02-10T13:28:55.072Z",
+      "source": "bgg"
+    },
+    "hansa-teutonica": {
+      "gameName": "Hansa Teutonica",
+      "bggId": "43015",
+      "filename": "hansa-teutonica.jpg",
+      "fetchedAt": "2026-02-10T13:29:04.873Z",
+      "source": "bgg"
+    },
+    "hearts-and-minds-vietnam-1965-1975": {
+      "gameName": "Hearts and minds vietnam 1965-1975",
+      "bggId": "27739",
+      "filename": "hearts-and-minds-vietnam-1965-1975.jpg",
+      "fetchedAt": "2026-02-10T13:29:11.241Z",
+      "source": "bgg"
+    },
+    "iki": {
+      "gameName": "Iki",
+      "bggId": "309",
+      "filename": "iki.jpg",
+      "fetchedAt": "2026-02-10T13:29:14.866Z",
+      "source": "bgg"
+    },
+    "imperial-struggle": {
+      "gameName": "Imperial Struggle",
+      "bggId": "206480",
+      "filename": "imperial-struggle.jpg",
+      "fetchedAt": "2026-02-10T13:29:21.304Z",
+      "source": "bgg"
+    },
+    "jak-wscieke-psy": {
+      "gameName": "Jak Wściekłe psy",
+      "bggId": "184522",
+      "filename": "jak-wscieke-psy.jpg",
+      "fetchedAt": "2026-02-10T13:29:27.647Z",
+      "source": "bgg"
+    },
+    "jednym-sowem": {
+      "gameName": "Jednym słowem",
+      "bggId": "254640",
+      "filename": "jednym-sowem.png",
+      "fetchedAt": "2026-02-10T13:29:30.825Z",
+      "source": "bgg"
+    },
+    "joking-hazard": {
+      "gameName": "Joking Hazard",
+      "bggId": "193621",
+      "filename": "joking-hazard.png",
+      "fetchedAt": "2026-02-10T13:29:43.486Z",
+      "source": "bgg"
+    },
+    "jolly-roger-piracka-gra-o-upach-i-buntach": {
+      "gameName": "Jolly Roger Piracka gra o łupach i buntach",
+      "bggId": "165959",
+      "filename": "jolly-roger-piracka-gra-o-upach-i-buntach.png",
+      "fetchedAt": "2026-02-10T13:29:46.770Z",
+      "source": "bgg"
+    },
+    "jorvik": {
+      "gameName": "Jorvik",
+      "bggId": "193739",
+      "filename": "jorvik.jpg",
+      "fetchedAt": "2026-02-10T13:29:53.116Z",
+      "source": "bgg"
+    },
+    "jungle-speed": {
+      "gameName": "Jungle speed",
+      "bggId": "8098",
+      "filename": "jungle-speed.jpg",
+      "fetchedAt": "2026-02-10T13:29:59.549Z",
+      "source": "bgg"
+    },
+    "kartografowie": {
+      "gameName": "Kartografowie",
+      "bggId": "263918",
+      "filename": "kartografowie.png",
+      "fetchedAt": "2026-02-10T13:30:02.890Z",
+      "source": "bgg"
+    },
+    "keyflower": {
+      "gameName": "Keyflower",
+      "bggId": "122515",
+      "filename": "keyflower.jpg",
+      "fetchedAt": "2026-02-10T13:30:15.844Z",
+      "source": "bgg"
+    },
+    "klub-detektywow": {
+      "gameName": "Klub Detektywów",
+      "bggId": "256788",
+      "filename": "klub-detektywow.jpg",
+      "fetchedAt": "2026-02-10T13:30:23.825Z",
+      "source": "bgg"
+    },
+    "kamcianka": {
+      "gameName": "Kłamcianka",
+      "bggId": "163279",
+      "filename": "kamcianka.jpg",
+      "fetchedAt": "2026-02-10T13:30:26.974Z",
+      "source": "bgg"
+    },
+    "kosci-obfitosci": {
+      "gameName": "Kości obfitości",
+      "bggId": "231280",
+      "filename": "kosci-obfitosci.jpg",
+      "fetchedAt": "2026-02-10T13:30:34.879Z",
+      "source": "bgg"
+    },
+    "kraina-snow": {
+      "gameName": "Kraina snów",
+      "bggId": "198454",
+      "filename": "kraina-snow.png",
+      "fetchedAt": "2026-02-10T13:30:41.132Z",
+      "source": "bgg"
+    },
+    "kruki": {
+      "gameName": "Kruki",
+      "bggId": "192074",
+      "filename": "kruki.jpg",
+      "fetchedAt": "2026-02-10T13:30:47.453Z",
+      "source": "bgg"
+    },
+    "la-cosa-nostra": {
+      "gameName": "La Cosa Nostra",
+      "bggId": "40789",
+      "filename": "la-cosa-nostra.jpg",
+      "fetchedAt": "2026-02-10T13:30:50.612Z",
+      "source": "bgg"
+    },
+    "labirynt-sow": {
+      "gameName": "Labirynt słów",
+      "bggId": "257527",
+      "filename": "labirynt-sow.jpg",
+      "fetchedAt": "2026-02-10T13:30:56.868Z",
+      "source": "bgg"
+    },
+    "legendary-encounters": {
+      "gameName": "Legendary encounters",
+      "bggId": "339774",
+      "filename": "legendary-encounters.jpg",
+      "fetchedAt": "2026-02-10T13:31:03.353Z",
+      "source": "bgg"
+    },
+    "lewis-and-clark": {
+      "gameName": "Lewis and Clark",
+      "bggId": "399950",
+      "filename": "lewis-and-clark.jpg",
+      "fetchedAt": "2026-02-10T13:31:06.543Z",
+      "source": "bgg"
+    },
+    "liberty-of-death-the-american-insurrection": {
+      "gameName": "Liberty of Death the american insurrection",
+      "bggId": "165872",
+      "filename": "liberty-of-death-the-american-insurrection.png",
+      "fetchedAt": "2026-02-10T13:31:12.802Z",
+      "source": "bgg"
+    },
+    "list-miosny": {
+      "gameName": "List miłosny",
+      "bggId": "129622",
+      "filename": "list-miosny.jpg",
+      "fetchedAt": "2026-02-10T13:31:19.132Z",
+      "source": "bgg"
+    },
+    "loyang": {
+      "gameName": "Loyang",
+      "bggId": "39683",
+      "filename": "loyang.jpg",
+      "fetchedAt": "2026-02-10T13:31:22.255Z",
+      "source": "bgg"
+    },
+    "owcy-krysztaow": {
+      "gameName": "Łowcy kryształow",
+      "bggId": "228183",
+      "filename": "owcy-krysztaow.jpg",
+      "fetchedAt": "2026-02-10T13:31:28.493Z",
+      "source": "bgg"
+    },
+    "mafia": {
+      "gameName": "Mafia",
+      "bggId": "148280",
+      "filename": "mafia.jpg",
+      "fetchedAt": "2026-02-10T13:31:34.798Z",
+      "source": "bgg"
+    },
+    "majesty": {
+      "gameName": "Majesty",
+      "bggId": "279639",
+      "filename": "majesty.jpg",
+      "fetchedAt": "2026-02-10T13:31:38.167Z",
+      "source": "bgg"
+    },
+    "mamy-szpiega": {
+      "gameName": "Mamy szpiega",
+      "bggId": "193308",
+      "filename": "mamy-szpiega.jpg",
+      "fetchedAt": "2026-02-10T13:31:44.557Z",
+      "source": "bgg"
+    },
+    "master-of-orion": {
+      "gameName": "Master of Orion",
+      "bggId": "402764",
+      "filename": "master-of-orion.jpg",
+      "fetchedAt": "2026-02-10T13:31:53.943Z",
+      "source": "bgg"
+    },
+    "metro-2033": {
+      "gameName": "Metro 2033",
+      "bggId": "112210",
+      "filename": "metro-2033.jpg",
+      "fetchedAt": "2026-02-10T13:32:00.320Z",
+      "source": "bgg"
+    },
+    "mindtrap": {
+      "gameName": "Mindtrap",
+      "bggId": "1923",
+      "filename": "mindtrap.jpg",
+      "fetchedAt": "2026-02-10T13:32:06.585Z",
+      "source": "bgg"
+    },
+    "mini-cywilizacja": {
+      "gameName": "Mini cywilizacja",
+      "bggId": "182681",
+      "filename": "mini-cywilizacja.png",
+      "fetchedAt": "2026-02-10T13:32:10.011Z",
+      "source": "bgg"
+    },
+    "mistfall": {
+      "gameName": "Mistfall",
+      "bggId": "168274",
+      "filename": "mistfall.png",
+      "fetchedAt": "2026-02-10T13:32:17.928Z",
+      "source": "bgg"
+    },
+    "mr-house": {
+      "gameName": "Mr House",
+      "bggId": "164670",
+      "filename": "mr-house.jpg",
+      "fetchedAt": "2026-02-10T13:32:24.230Z",
+      "source": "bgg"
+    },
+    "mr-jack-pocket": {
+      "gameName": "Mr Jack pocket",
+      "bggId": "72287",
+      "filename": "mr-jack-pocket.jpg",
+      "fetchedAt": "2026-02-10T13:32:30.458Z",
+      "source": "bgg"
+    },
+    "neuroshima-hex": {
+      "gameName": "Neuroshima Hex",
+      "bggId": "21241",
+      "filename": "neuroshima-hex.png",
+      "fetchedAt": "2026-02-10T13:32:33.771Z",
+      "source": "bgg"
+    },
+    "nowy-jork-1901": {
+      "gameName": "Nowy Jork 1901",
+      "bggId": "174660",
+      "filename": "nowy-jork-1901.jpg",
+      "fetchedAt": "2026-02-10T13:32:41.642Z",
+      "source": "bgg"
+    },
+    "odmety-grozy": {
+      "gameName": "Odmęty Grozy",
+      "bggId": "340466",
+      "filename": "odmety-grozy.png",
+      "fetchedAt": "2026-02-10T13:32:48.023Z",
+      "source": "bgg"
+    },
+    "palec-bozy": {
+      "gameName": "Palec Boży",
+      "bggId": "281194",
+      "filename": "palec-bozy.jpg",
+      "fetchedAt": "2026-02-10T13:32:54.290Z",
+      "source": "bgg"
+    },
+    "pan-lodowego-ogrodu": {
+      "gameName": "Pan lodowego ogrodu",
+      "bggId": "157917",
+      "filename": "pan-lodowego-ogrodu.jpg",
+      "fetchedAt": "2026-02-10T13:32:57.451Z",
+      "source": "bgg"
+    },
+    "pan-tu-nie-sta-demoludy": {
+      "gameName": "Pan tu nie stał demoludy",
+      "bggId": "174065",
+      "filename": "pan-tu-nie-sta-demoludy.jpg",
+      "fetchedAt": "2026-02-10T13:33:03.748Z",
+      "source": "bgg"
+    },
+    "pandemic": {
+      "gameName": "Pandemic",
+      "bggId": "375090",
+      "filename": "pandemic.jpg",
+      "fetchedAt": "2026-02-10T13:33:10.083Z",
+      "source": "bgg"
+    },
+    "pangea": {
+      "gameName": "Pangea",
+      "bggId": "23631",
+      "filename": "pangea.jpg",
+      "fetchedAt": "2026-02-10T13:33:13.265Z",
+      "source": "bgg"
+    },
+    "peny-kurnik": {
+      "gameName": "Pełny kurnik",
+      "bggId": "286080",
+      "filename": "peny-kurnik.jpg",
+      "fetchedAt": "2026-02-10T13:33:19.681Z",
+      "source": "bgg"
+    },
+    "pictomania": {
+      "gameName": "Pictomania",
+      "bggId": "98229",
+      "filename": "pictomania.png",
+      "fetchedAt": "2026-02-10T13:33:26.095Z",
+      "source": "bgg"
+    },
+    "podaj-dalej": {
+      "gameName": "Podaj dalej",
+      "bggId": "46213",
+      "filename": "podaj-dalej.jpg",
+      "fetchedAt": "2026-02-10T13:33:29.251Z",
+      "source": "bgg"
+    },
+    "podaj-dalej-bez-cenzury": {
+      "gameName": "Podaj dalej bez cenzury",
+      "bggId": "173761",
+      "filename": "podaj-dalej-bez-cenzury.jpg",
+      "fetchedAt": "2026-02-10T13:33:35.581Z",
+      "source": "bgg"
+    },
+    "polska-gola": {
+      "gameName": "Polska gola",
+      "bggId": "21930",
+      "filename": "polska-gola.jpg",
+      "fetchedAt": "2026-02-10T13:33:41.832Z",
+      "source": "bgg"
+    },
+    "poprzez-wieki-droga-do-szalenstwa": {
+      "gameName": "Poprzez wieki droga do szaleństwa",
+      "bggId": "195544",
+      "filename": "poprzez-wieki-droga-do-szalenstwa.jpg",
+      "fetchedAt": "2026-02-10T13:33:45.019Z",
+      "source": "bgg"
+    },
+    "poszy-konie": {
+      "gameName": "Poszły konie",
+      "bggId": "351040",
+      "filename": "poszy-konie.jpg",
+      "fetchedAt": "2026-02-10T13:33:51.295Z",
+      "source": "bgg"
+    },
+    "posrod-gwiazd": {
+      "gameName": "Pośród gwiazd",
+      "bggId": "110277",
+      "filename": "posrod-gwiazd.jpg",
+      "fetchedAt": "2026-02-10T13:33:57.622Z",
+      "source": "bgg"
+    },
+    "praga-caput-regni": {
+      "gameName": "Praga caput regni",
+      "bggId": "308765",
+      "filename": "praga-caput-regni.png",
+      "fetchedAt": "2026-02-10T13:34:00.797Z",
+      "source": "bgg"
+    },
+    "prezencik": {
+      "gameName": "Prezencik",
+      "bggId": "12942",
+      "filename": "prezencik.jpg",
+      "fetchedAt": "2026-02-10T13:34:07.062Z",
+      "source": "bgg"
+    },
+    "przebiege-wielbady-wszystko-na-jedna-karte": {
+      "gameName": "Przebiegłe wielbłądy wszystko na jedną kartę",
+      "bggId": "192947",
+      "filename": "przebiege-wielbady-wszystko-na-jedna-karte.jpg",
+      "fetchedAt": "2026-02-10T13:34:13.438Z",
+      "source": "bgg"
+    },
+    "quoridor": {
+      "gameName": "Quoridor",
+      "bggId": "624",
+      "filename": "quoridor.jpg",
+      "fetchedAt": "2026-02-10T13:34:16.574Z",
+      "source": "bgg"
+    },
+    "race-for-the-galaxy": {
+      "gameName": "Race for the galaxy",
+      "bggId": "145148",
+      "filename": "race-for-the-galaxy.png",
+      "fetchedAt": "2026-02-10T13:34:22.941Z",
+      "source": "bgg"
+    },
+    "race-for-the-galaxy-gathering-storm": {
+      "gameName": "Race for the galaxy gathering storm",
+      "bggId": "34499",
+      "filename": "race-for-the-galaxy-gathering-storm.jpg",
+      "fetchedAt": "2026-02-10T13:34:29.216Z",
+      "source": "bgg"
+    },
+    "race-to-berlin-1945": {
+      "gameName": "Race to Berlin 1945",
+      "bggId": "106910",
+      "filename": "race-to-berlin-1945.jpg",
+      "fetchedAt": "2026-02-10T13:34:40.114Z",
+      "source": "bgg"
+    },
+    "red-7": {
+      "gameName": "Red 7",
+      "bggId": "161417",
+      "filename": "red-7.png",
+      "fetchedAt": "2026-02-10T13:34:46.328Z",
+      "source": "bgg"
+    },
+    "rising-sun": {
+      "gameName": "Rising Sun",
+      "bggId": "39557",
+      "filename": "rising-sun.jpg",
+      "fetchedAt": "2026-02-10T13:34:52.725Z",
+      "source": "bgg"
+    },
+    "road-rally-usa": {
+      "gameName": "Road rally usa",
+      "bggId": "136954",
+      "filename": "road-rally-usa.jpg",
+      "fetchedAt": "2026-02-10T13:34:55.894Z",
+      "source": "bgg"
+    },
+    "root": {
+      "gameName": "Root",
+      "bggId": "237497",
+      "filename": "root.jpg",
+      "fetchedAt": "2026-02-10T13:35:02.215Z",
+      "source": "bgg"
+    },
+    "rune-age": {
+      "gameName": "Rune Age",
+      "bggId": "94362",
+      "filename": "rune-age.jpg",
+      "fetchedAt": "2026-02-10T13:35:10.011Z",
+      "source": "bgg"
+    },
+    "sabotazysta": {
+      "gameName": "Sabotażysta",
+      "bggId": "9220",
+      "filename": "sabotazysta.jpg",
+      "fetchedAt": "2026-02-10T13:35:16.298Z",
+      "source": "bgg"
+    },
+    "sabotazysta-rozszerzenie": {
+      "gameName": "Sabotażysta rozszerzenie",
+      "bggId": "91072",
+      "filename": "sabotazysta-rozszerzenie.png",
+      "fetchedAt": "2026-02-10T13:35:19.551Z",
+      "source": "bgg"
+    },
+    "santa-maria": {
+      "gameName": "Santa Maria",
+      "bggId": "229220",
+      "filename": "santa-maria.jpg",
+      "fetchedAt": "2026-02-10T13:35:25.918Z",
+      "source": "bgg"
+    },
+    "santa-monica": {
+      "gameName": "Santa monica",
+      "bggId": "39698",
+      "filename": "santa-monica.jpg",
+      "fetchedAt": "2026-02-10T13:35:32.183Z",
+      "source": "bgg"
+    },
+    "scythe-fenris-powstaje": {
+      "gameName": "Scythe Fenris Powstaje",
+      "bggId": "242277",
+      "filename": "scythe-fenris-powstaje.jpg",
+      "fetchedAt": "2026-02-10T13:35:35.460Z",
+      "source": "bgg"
+    },
+    "scythe-the-wind-gambit": {
+      "gameName": "Scythe the wind gambit",
+      "bggId": "223555",
+      "filename": "scythe-the-wind-gambit.jpg",
+      "fetchedAt": "2026-02-10T13:35:41.776Z",
+      "source": "bgg"
+    },
+    "seafall": {
+      "gameName": "Seafall",
+      "bggId": "148261",
+      "filename": "seafall.jpg",
+      "fetchedAt": "2026-02-10T13:35:48.050Z",
+      "source": "bgg"
+    },
+    "skull": {
+      "gameName": "Skull",
+      "bggId": "287413",
+      "filename": "skull.png",
+      "fetchedAt": "2026-02-10T13:35:51.440Z",
+      "source": "bgg"
+    },
+    "sowny-ninja": {
+      "gameName": "Słowny ninja",
+      "bggId": "226354",
+      "filename": "sowny-ninja.jpg",
+      "fetchedAt": "2026-02-10T13:35:57.777Z",
+      "source": "bgg"
+    },
+    "small-world-warcraft": {
+      "gameName": "Small World Warcraft",
+      "bggId": "309630",
+      "filename": "small-world-warcraft.png",
+      "fetchedAt": "2026-02-10T13:36:03.985Z",
+      "source": "bgg"
+    },
+    "spartakus": {
+      "gameName": "Spartakus",
+      "bggId": "170245",
+      "filename": "spartakus.jpg",
+      "fetchedAt": "2026-02-10T13:36:07.339Z",
+      "source": "bgg"
+    },
+    "star-wars-x-wing": {
+      "gameName": "Star Wars x-wing",
+      "bggId": "129431",
+      "filename": "star-wars-x-wing.png",
+      "fetchedAt": "2026-02-10T13:36:13.688Z",
+      "source": "bgg"
+    },
+    "stella-dixit": {
+      "gameName": "Stella dixit",
+      "bggId": "329845",
+      "filename": "stella-dixit.jpg",
+      "fetchedAt": "2026-02-10T13:36:27.729Z",
+      "source": "bgg"
+    },
+    "strazniczki": {
+      "gameName": "Strażniczki",
+      "bggId": "176803",
+      "filename": "strazniczki.jpg",
+      "fetchedAt": "2026-02-10T13:36:31.183Z",
+      "source": "bgg"
+    },
+    "studium-w-szmaragdzie": {
+      "gameName": "Studium w szmaragdzie",
+      "bggId": "178054",
+      "filename": "studium-w-szmaragdzie.jpg",
+      "fetchedAt": "2026-02-10T13:36:37.642Z",
+      "source": "bgg"
+    },
+    "stwor": {
+      "gameName": "Stwór",
+      "bggId": "261265",
+      "filename": "stwor.jpg",
+      "fetchedAt": "2026-02-10T13:36:43.999Z",
+      "source": "bgg"
+    },
+    "successors": {
+      "gameName": "Successors",
+      "bggId": "445793",
+      "filename": "successors.jpg",
+      "fetchedAt": "2026-02-10T13:36:47.262Z",
+      "source": "bgg"
+    },
+    "sushi-go-party": {
+      "gameName": "Sushi go party",
+      "bggId": "192291",
+      "filename": "sushi-go-party.jpg",
+      "fetchedAt": "2026-02-10T13:36:53.508Z",
+      "source": "bgg"
+    },
+    "suspend": {
+      "gameName": "Suspend",
+      "bggId": "34707",
+      "filename": "suspend.jpg",
+      "fetchedAt": "2026-02-10T13:36:59.754Z",
+      "source": "bgg"
+    },
+    "szalona-misja": {
+      "gameName": "Szalona Misja",
+      "bggId": "136991",
+      "filename": "szalona-misja.jpg",
+      "fetchedAt": "2026-02-10T13:37:02.968Z",
+      "source": "bgg"
+    },
+    "swiat-dysku-sekary": {
+      "gameName": "Świat dysku sekary",
+      "bggId": "140279",
+      "filename": "swiat-dysku-sekary.jpg",
+      "fetchedAt": "2026-02-10T13:37:09.248Z",
+      "source": "bgg"
+    },
+    "taboo": {
+      "gameName": "Taboo",
+      "bggId": "88549",
+      "filename": "taboo.jpg",
+      "fetchedAt": "2026-02-10T13:37:15.512Z",
+      "source": "bgg"
+    },
+    "tajne-agentki": {
+      "gameName": "Tajne agentki",
+      "bggId": "229741",
+      "filename": "tajne-agentki.jpg",
+      "fetchedAt": "2026-02-10T13:37:18.818Z",
+      "source": "bgg"
+    },
+    "tajniacy": {
+      "gameName": "Tajniacy",
+      "bggId": "178900",
+      "filename": "tajniacy.jpg",
+      "fetchedAt": "2026-02-10T13:37:25.087Z",
+      "source": "bgg"
+    },
+    "tajniacy-bez-cenzury": {
+      "gameName": "Tajniacy bez cenzury",
+      "bggId": "205158",
+      "filename": "tajniacy-bez-cenzury.jpg",
+      "fetchedAt": "2026-02-10T13:37:31.376Z",
+      "source": "bgg"
+    },
+    "tajniacy-obrazki": {
+      "gameName": "Tajniacy obrazki",
+      "bggId": "198773",
+      "filename": "tajniacy-obrazki.png",
+      "fetchedAt": "2026-02-10T13:37:34.529Z",
+      "source": "bgg"
+    },
+    "talisman-batman": {
+      "gameName": "Talisman Batman",
+      "bggId": "274690",
+      "filename": "talisman-batman.jpg",
+      "fetchedAt": "2026-02-10T13:37:40.820Z",
+      "source": "bgg"
+    },
+    "tapestry-sztuka-i-architektura": {
+      "gameName": "Tapestry sztuka i architektura",
+      "bggId": "349998",
+      "filename": "tapestry-sztuka-i-architektura.jpg",
+      "fetchedAt": "2026-02-10T13:37:47.072Z",
+      "source": "bgg"
+    },
+    "terraformacja-marsa": {
+      "gameName": "Terraformacja Marsa",
+      "bggId": "420095",
+      "filename": "terraformacja-marsa.png",
+      "fetchedAt": "2026-02-10T13:37:50.329Z",
+      "source": "bgg"
+    },
+    "terrors-of-london": {
+      "gameName": "Terrors of London",
+      "bggId": "225910",
+      "filename": "terrors-of-london.jpg",
+      "fetchedAt": "2026-02-10T13:37:56.714Z",
+      "source": "bgg"
+    },
+    "the-court-of-miracles": {
+      "gameName": "The Court of Miracles",
+      "bggId": "270956",
+      "filename": "the-court-of-miracles.jpg",
+      "fetchedAt": "2026-02-10T13:38:03.052Z",
+      "source": "bgg"
+    },
+    "the-human-punishment-the-beginning": {
+      "gameName": "The human punishment the beginning",
+      "bggId": "364573",
+      "filename": "the-human-punishment-the-beginning.jpg",
+      "fetchedAt": "2026-02-10T13:38:06.366Z",
+      "source": "bgg"
+    },
+    "tiny-towns": {
+      "gameName": "Tiny towns",
+      "bggId": "265736",
+      "filename": "tiny-towns.jpg",
+      "fetchedAt": "2026-02-10T13:38:18.860Z",
+      "source": "bgg"
+    },
+    "total-domination": {
+      "gameName": "Total domination",
+      "bggId": "139992",
+      "filename": "total-domination.jpg",
+      "fetchedAt": "2026-02-10T13:38:22.096Z",
+      "source": "bgg"
+    },
+    "turbo": {
+      "gameName": "Turbo",
+      "bggId": "56403",
+      "filename": "turbo.png",
+      "fetchedAt": "2026-02-10T13:38:30.021Z",
+      "source": "bgg"
+    },
+    "ubongo-3d": {
+      "gameName": "Ubongo 3d",
+      "bggId": "46396",
+      "filename": "ubongo-3d.jpg",
+      "fetchedAt": "2026-02-10T13:38:36.289Z",
+      "source": "bgg"
+    },
+    "unmatched-bruk-i-mga": {
+      "gameName": "Unmatched bruk i mgła",
+      "bggId": "294484",
+      "filename": "unmatched-bruk-i-mga.jpg",
+      "fetchedAt": "2026-02-10T13:38:42.767Z",
+      "source": "bgg"
+    },
+    "valeria-wyprawy": {
+      "gameName": "Valeria wyprawy",
+      "bggId": "187680",
+      "filename": "valeria-wyprawy.png",
+      "fetchedAt": "2026-02-10T13:38:46.134Z",
+      "source": "bgg"
+    },
+    "valhalla": {
+      "gameName": "Valhalla",
+      "bggId": "202023",
+      "filename": "valhalla.jpg",
+      "fetchedAt": "2026-02-10T13:38:52.505Z",
+      "source": "bgg"
+    },
+    "vasco-da-gama": {
+      "gameName": "Vasco da gama",
+      "bggId": "41002",
+      "filename": "vasco-da-gama.jpg",
+      "fetchedAt": "2026-02-10T13:38:58.807Z",
+      "source": "bgg"
+    },
+    "versailles-1919": {
+      "gameName": "Versailles 1919",
+      "bggId": "253506",
+      "filename": "versailles-1919.jpg",
+      "fetchedAt": "2026-02-10T13:39:02.316Z",
+      "source": "bgg"
+    },
+    "viticulture": {
+      "gameName": "Viticulture",
+      "bggId": "128621",
+      "filename": "viticulture.jpg",
+      "fetchedAt": "2026-02-10T13:39:08.568Z",
+      "source": "bgg"
+    },
+    "wir-sind-das-volk": {
+      "gameName": "Wir sind das volk",
+      "bggId": "165401",
+      "filename": "wir-sind-das-volk.jpg",
+      "fetchedAt": "2026-02-10T13:39:18.103Z",
+      "source": "bgg"
+    },
+    "wadca-pierscieni": {
+      "gameName": "Władca pierścieni",
+      "bggId": "63268",
+      "filename": "wadca-pierscieni.png",
+      "fetchedAt": "2026-02-10T13:39:26.241Z",
+      "source": "bgg"
+    },
+    "wsiasc-do-pociagu-europa": {
+      "gameName": "Wsiąść do pociągu europa",
+      "bggId": "14996",
+      "filename": "wsiasc-do-pociagu-europa.jpg",
+      "fetchedAt": "2026-02-10T13:39:33.990Z",
+      "source": "bgg"
+    },
+    "wyspa-kwitnacej-wisni": {
+      "gameName": "Wyspa kwitnącej wiśni",
+      "bggId": "207336",
+      "filename": "wyspa-kwitnacej-wisni.jpg",
+      "fetchedAt": "2026-02-10T13:39:40.406Z",
+      "source": "bgg"
+    },
+    "wystrzaowe-katapulty": {
+      "gameName": "Wystrzałowe katapulty",
+      "bggId": "310789",
+      "filename": "wystrzaowe-katapulty.jpg",
+      "fetchedAt": "2026-02-10T13:39:46.698Z",
+      "source": "bgg"
+    },
+    "zaginiona-wyspa-arnak": {
+      "gameName": "Zaginiona wyspa arnak",
+      "bggId": "312484",
+      "filename": "zaginiona-wyspa-arnak.jpg",
+      "fetchedAt": "2026-02-10T13:39:49.808Z",
+      "source": "bgg"
+    }
+  },
+  "failed": {
+    "bossing-space": {
+      "gameName": "Bossing Space",
+      "failedAt": "2026-02-10T13:24:36.567Z",
+      "reason": "not_found"
+    },
+    "brass-lancanshire": {
+      "gameName": "Brass lancanshire",
+      "failedAt": "2026-02-10T13:24:38.167Z",
+      "reason": "not_found"
+    },
+    "carcassone": {
+      "gameName": "Carcassone",
+      "failedAt": "2026-02-10T13:25:07.137Z",
+      "reason": "not_found"
+    },
+    "cards-against-humanity": {
+      "gameName": "Cards against humanity",
+      "bggId": "175147",
+      "failedAt": "2026-02-10T13:25:10.560Z",
+      "reason": "no_image"
+    },
+    "clank": {
+      "gameName": "Clank",
+      "bggId": "132149",
+      "failedAt": "2026-02-10T13:25:27.146Z",
+      "reason": "no_image"
+    },
+    "diune-imperium": {
+      "gameName": "Diune Imperium",
+      "failedAt": "2026-02-10T13:26:48.589Z",
+      "reason": "not_found"
+    },
+    "duuuszki-badz-szybki-jak-b-lyskawica": {
+      "gameName": "Duuuszki Bądź szybki jak b lyskawica",
+      "failedAt": "2026-02-10T13:27:05.947Z",
+      "reason": "not_found"
+    },
+    "fight-ambre": {
+      "gameName": "Fight Ambre",
+      "failedAt": "2026-02-10T13:28:01.840Z",
+      "reason": "not_found"
+    },
+    "fight-natasha": {
+      "gameName": "Fight Natasha",
+      "failedAt": "2026-02-10T13:28:09.744Z",
+      "reason": "not_found"
+    },
+    "grzybobranie-rajd-samochodowy": {
+      "gameName": "Grzybobranie rajd samochodowy",
+      "failedAt": "2026-02-10T13:28:56.621Z",
+      "reason": "not_found"
+    },
+    "hannabi": {
+      "gameName": "Hannabi",
+      "failedAt": "2026-02-10T13:28:58.194Z",
+      "reason": "not_found"
+    },
+    "joan-of-arc": {
+      "gameName": "Joan of arc",
+      "bggId": "407391",
+      "failedAt": "2026-02-10T13:29:37.259Z",
+      "reason": "no_image"
+    },
+    "karty-dzentelmenow-1": {
+      "gameName": "Karty dżentelmenów 1",
+      "failedAt": "2026-02-10T13:30:07.560Z",
+      "reason": "not_found"
+    },
+    "karty-dzentelmenow-2": {
+      "gameName": "Karty dżentelmenów 2",
+      "failedAt": "2026-02-10T13:30:09.275Z",
+      "reason": "not_found"
+    },
+    "kibole-wyjazd-na-mecz": {
+      "gameName": "Kibole wyjazd na mecz",
+      "failedAt": "2026-02-10T13:30:17.391Z",
+      "reason": "not_found"
+    },
+    "komiks-gra-karciana": {
+      "gameName": "Komiks Gra karciana",
+      "failedAt": "2026-02-10T13:30:31.557Z",
+      "reason": "not_found"
+    },
+    "marvel-xmen-bunt-mutantow": {
+      "gameName": "Marvel Xmen bunt mutantów",
+      "failedAt": "2026-02-10T13:31:46.101Z",
+      "reason": "not_found"
+    },
+    "massive-darkness-2-hellspace": {
+      "gameName": "Massive Darkness 2 Hellspace",
+      "failedAt": "2026-02-10T13:31:50.695Z",
+      "reason": "not_found"
+    },
+    "mistakos-walka-o-stoki": {
+      "gameName": "Mistakos walka o stołki",
+      "failedAt": "2026-02-10T13:32:14.617Z",
+      "reason": "not_found"
+    },
+    "nie-testowalsmy-tego-wcale": {
+      "gameName": "Nie testowalśmy tego wcale",
+      "failedAt": "2026-02-10T13:32:38.349Z",
+      "reason": "not_found"
+    },
+    "race-for-the-galaxy-narodziny-imperium": {
+      "gameName": "Race for the galaxy narodziny imperium",
+      "failedAt": "2026-02-10T13:34:30.768Z",
+      "reason": "not_found"
+    },
+    "race-for-the-galaxy-rebel-kontra-imperium": {
+      "gameName": "Race for the galaxy rebel kontra imperium",
+      "failedAt": "2026-02-10T13:34:32.319Z",
+      "reason": "not_found"
+    },
+    "race-for-the-galaxy-rebel-xeno-invasion": {
+      "gameName": "Race for the galaxy rebel xeno invasion",
+      "failedAt": "2026-02-10T13:34:36.924Z",
+      "reason": "not_found"
+    },
+    "rummicube": {
+      "gameName": "Rummicube",
+      "failedAt": "2026-02-10T13:35:03.758Z",
+      "reason": "not_found"
+    },
+    "stars-wars-the-deckbuilding-game": {
+      "gameName": "Stars Wars The Deckbuilding game",
+      "failedAt": "2026-02-10T13:36:15.264Z",
+      "reason": "not_found"
+    },
+    "stars-wars-zewnetrzne-rubieze": {
+      "gameName": "Stars Wars zewnętrzne rubieże",
+      "failedAt": "2026-02-10T13:36:19.848Z",
+      "reason": "not_found"
+    },
+    "stars-wars-zewnetrzne-rubieze-niedokonczone-sprawy": {
+      "gameName": "Stars Wars zewnętrzne rubieże niedokończone sprawy",
+      "failedAt": "2026-02-10T13:36:21.393Z",
+      "reason": "not_found"
+    },
+    "times-up-celebrity": {
+      "gameName": "Times up celebrity",
+      "failedAt": "2026-02-10T13:38:10.955Z",
+      "reason": "not_found"
+    },
+    "times-up-family": {
+      "gameName": "Times up family",
+      "failedAt": "2026-02-10T13:38:12.497Z",
+      "reason": "not_found"
+    },
+    "total-domination-deluxe-set": {
+      "gameName": "Total domination deluxe set",
+      "failedAt": "2026-02-10T13:38:26.769Z",
+      "reason": "not_found"
+    },
+    "weimar": {
+      "gameName": "Weimar",
+      "bggId": "26417",
+      "failedAt": "2026-02-10T13:39:14.927Z",
+      "reason": "no_image"
+    },
+    "wir-sind-das-volk-dodatek": {
+      "gameName": "Wir sind das volk dodatek",
+      "failedAt": "2026-02-10T13:39:22.723Z",
+      "reason": "not_found"
+    },
+    "wojownicy-podziemi-2-edycja": {
+      "gameName": "Wojownicy podziemi 2 edycja",
+      "failedAt": "2026-02-10T13:39:30.831Z",
+      "reason": "not_found"
+    },
+    "zgroza-xd": {
+      "gameName": "Zgroza xD",
+      "failedAt": "2026-02-10T13:39:54.466Z",
+      "reason": "not_found"
+    }
+  }
+}
