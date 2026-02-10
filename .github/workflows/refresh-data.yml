@@ -36,7 +36,7 @@ jobs:
         env:
           CSV_URL: ${{ secrets.CSV_URL }}
           SITE_URL: ${{ secrets.SITE_URL }}
-          BBG_API_KEY: ${{ secrets.BBG_API_KEY }}
+          BGG_API_KEY: ${{ secrets.BGG_API_KEY }}
         run: npm run build
 
       - name: Deploy to GitHub Pages

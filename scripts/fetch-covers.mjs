@@ -9,16 +9,16 @@ const MANIFEST_PATH = path.resolve("public/images/covers/.manifest.json");
 const GAMES_JSON_PATH = path.resolve("src/data/games.json");
 const BGG_SEARCH_URL = "https://boardgamegeek.com/xmlapi2/search";
 const BGG_THING_URL = "https://boardgamegeek.com/xmlapi2/thing";
-const BGG_API_KEY = process.env.BBG_API_KEY; // Note: BBG is the env var name (typo in .env)
+const BGG_API_KEY = process.env.BGG_API_KEY;
 const RATE_LIMIT_MS = 1500; // 1.5 seconds between API calls
 const MAX_RETRIES = 2;
 const RETRY_DELAY_MS = 3000;
 
 // Validate API key
 if (!BGG_API_KEY) {
-  console.warn("⚠️  Warning: BBG_API_KEY not found in environment.");
+  console.warn("⚠️  Warning: BGG_API_KEY not found in environment.");
   console.warn("   Cover fetching will likely fail without authorization.");
-  console.warn("   Add BBG_API_KEY to your .env file.\n");
+  console.warn("   Add BGG_API_KEY to your .env file.\n");
 }
 
 // Polish to English name mappings for common games
