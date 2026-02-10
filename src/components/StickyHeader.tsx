@@ -1,4 +1,5 @@
 import type { ViewMode, ThemeMode, FilterChip } from "../types";
+import { assetUrl } from "../lib/utils";
 import { SearchInput } from "./SearchInput";
 import { ViewToggle } from "./ViewToggle";
 import { ThemeToggle } from "./ThemeToggle";
@@ -45,12 +46,12 @@ export function StickyHeader({
           {/* Logo (light + dark variant) */}
           <h1 className="shrink-0">
             <img
-              src="/images/logos/bgp_grota.png"
+              src={assetUrl("/images/logos/bgp_grota.png")}
               alt="Białostocka GROTA Grupa Planszówkowa"
               className="h-8 w-auto sm:h-10 md:h-12 dark:hidden"
             />
             <img
-              src="/images/logos/bgp_grota_white.png"
+              src={assetUrl("/images/logos/bgp_grota_white.png")}
               alt="Białostocka GROTA Grupa Planszówkowa"
               className="h-8 w-auto sm:h-10 md:h-12 hidden dark:block"
             />

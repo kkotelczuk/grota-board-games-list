@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { GameDto } from "../types";
+import { assetUrl } from "../lib/utils";
 import { DifficultyBadge } from "./DifficultyBadge";
 import { ImageFallback } from "./ImageFallback";
 import { Users, Clock } from "lucide-react";
@@ -39,7 +40,7 @@ export function GameCard({ game }: GameCardProps) {
           <ImageFallback gameName={game.name} className="rounded-t-lg" />
         ) : (
           <img
-            src={game.imageUrl!}
+            src={assetUrl(game.imageUrl!)}
             alt={`Okładka gry ${game.name}`}
             className="h-full w-full object-cover transition-transform group-hover:scale-105"
             onError={() => setImageError(true)}
