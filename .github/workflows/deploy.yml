@@ -1,3 +1,5 @@
+# Deploy to GitHub Pages (https://<user>.github.io/grota-board-games-list/)
+# Required repo secrets: CSV_URL (required), SITE_URL (e.g. https://kkotelczuk.github.io/grota-board-games-list), BGG_API_KEY (optional, for cover images)
 name: Deploy to GitHub Pages
 
 on:
