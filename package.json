@@ -8,9 +8,11 @@
   },
   "scripts": {
     "dev": "astro dev --host",
-    "build": "npm run fetch:data && astro build",
+    "build": "npm run fetch:data && npm run fetch:covers && npm run fetch:data && astro build",
+    "build:no-covers": "npm run fetch:data && astro build",
     "preview": "astro preview",
     "fetch:data": "node scripts/fetch-data.mjs",
+    "fetch:covers": "node scripts/fetch-covers.mjs",
     "check": "astro check",
     "lint": "eslint .",
     "format": "prettier . --write"
@@ -27,6 +29,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.3",
+    "fast-xml-parser": "^5.0.9",
     "lucide-react": "^0.563.0",
     "papaparse": "latest",
     "react": "^19.2.4",

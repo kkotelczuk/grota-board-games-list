@@ -42,8 +42,19 @@ export function StickyHeader({
       <div className="container mx-auto px-4 py-3">
         {/* Main header row */}
         <div className="flex items-center gap-3">
-          {/* Logo / Title */}
-          <h1 className="text-xl font-bold shrink-0 hidden sm:block">Grota</h1>
+          {/* Logo (light + dark variant) */}
+          <h1 className="shrink-0">
+            <img
+              src="/images/logos/bgp_grota.png"
+              alt="Białostocka GROTA Grupa Planszówkowa"
+              className="h-8 w-auto sm:h-10 md:h-12 dark:hidden"
+            />
+            <img
+              src="/images/logos/bgp_grota_white.png"
+              alt="Białostocka GROTA Grupa Planszówkowa"
+              className="h-8 w-auto sm:h-10 md:h-12 hidden dark:block"
+            />
+          </h1>
 
           {/* Search input */}
           <SearchInput

@@ -3,32 +3,37 @@
 /* Custom dark variant for class-based dark mode */
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* Base theme - light mode */
+/*
+ * GROTA theme – kolory z palety „zielone sukno” (emerald felt, białe logo, akcenty).
+ * Light: ciepłe beże, głęboka zieleń jako primary.
+ * Dark: głęboki emerald jako tło, biały tekst, akcenty.
+ */
 @theme {
-  --color-background: hsl(0 0% 100%);
-  --color-foreground: hsl(240 10% 3.9%);
+  /* Light mode – ciepłe tło (beż jak karta gołąbka), zieleń jako główny kolor */
+  --color-background: hsl(42 35% 97%);
+  --color-foreground: hsl(150 25% 12%);
   --color-card: hsl(0 0% 100%);
-  --color-card-foreground: hsl(240 10% 3.9%);
+  --color-card-foreground: hsl(150 25% 12%);
   --color-popover: hsl(0 0% 100%);
-  --color-popover-foreground: hsl(240 10% 3.9%);
-  --color-primary: hsl(240 5.9% 10%);
-  --color-primary-foreground: hsl(0 0% 98%);
-  --color-secondary: hsl(240 4.8% 95.9%);
-  --color-secondary-foreground: hsl(240 5.9% 10%);
-  --color-muted: hsl(240 4.8% 95.9%);
-  --color-muted-foreground: hsl(240 3.8% 46.1%);
-  --color-accent: hsl(240 4.8% 95.9%);
-  --color-accent-foreground: hsl(240 5.9% 10%);
-  --color-destructive: hsl(0 84.2% 60.2%);
-  --color-destructive-foreground: hsl(0 0% 98%);
-  --color-border: hsl(240 5.9% 90%);
-  --color-input: hsl(240 5.9% 90%);
-  --color-ring: hsl(240 5.9% 10%);
+  --color-popover-foreground: hsl(150 25% 12%);
+  --color-primary: hsl(150 55% 22%);
+  --color-primary-foreground: hsl(0 0% 100%);
+  --color-secondary: hsl(42 25% 92%);
+  --color-secondary-foreground: hsl(150 25% 12%);
+  --color-muted: hsl(42 15% 92%);
+  --color-muted-foreground: hsl(150 10% 42%);
+  --color-accent: hsl(150 30% 90%);
+  --color-accent-foreground: hsl(150 55% 18%);
+  --color-destructive: hsl(0 85% 45%);
+  --color-destructive-foreground: hsl(0 0% 100%);
+  --color-border: hsl(42 20% 88%);
+  --color-input: hsl(42 20% 88%);
+  --color-ring: hsl(150 55% 22%);
 
-  /* Custom app colors */
-  --color-difficulty-easy: hsl(142 76% 36%);
-  --color-difficulty-medium: hsl(45 93% 47%);
-  --color-difficulty-hard: hsl(0 84% 60%);
+  /* Custom app colors – spójne z paletą (zieleń, żółć/pomarańcz, czerwień) */
+  --color-difficulty-easy: hsl(142 55% 38%);
+  --color-difficulty-medium: hsl(38 95% 48%);
+  --color-difficulty-hard: hsl(0 75% 50%);
 
   /* Radius */
   --radius-sm: 0.5rem;
@@ -37,35 +42,35 @@
   --radius-xl: 1rem;
 }
 
-/* Dark mode theme overrides */
+/* Dark mode – głębokie zielone sukno (emerald felt), biały tekst, jasne akcenty */
 @layer theme {
   :root,
   :host {
     @variant dark {
-      --color-background: hsl(240 10% 3.9%);
+      --color-background: hsl(150 45% 12%);
       --color-foreground: hsl(0 0% 98%);
-      --color-card: hsl(240 10% 3.9%);
+      --color-card: hsl(150 40% 16%);
       --color-card-foreground: hsl(0 0% 98%);
-      --color-popover: hsl(240 10% 3.9%);
+      --color-popover: hsl(150 40% 14%);
       --color-popover-foreground: hsl(0 0% 98%);
       --color-primary: hsl(0 0% 98%);
-      --color-primary-foreground: hsl(240 5.9% 10%);
-      --color-secondary: hsl(240 3.7% 15.9%);
+      --color-primary-foreground: hsl(150 55% 18%);
+      --color-secondary: hsl(150 35% 22%);
       --color-secondary-foreground: hsl(0 0% 98%);
-      --color-muted: hsl(240 3.7% 15.9%);
-      --color-muted-foreground: hsl(240 5% 64.9%);
-      --color-accent: hsl(240 3.7% 15.9%);
+      --color-muted: hsl(150 30% 20%);
+      --color-muted-foreground: hsl(150 15% 65%);
+      --color-accent: hsl(150 35% 25%);
       --color-accent-foreground: hsl(0 0% 98%);
-      --color-destructive: hsl(0 62.8% 30.6%);
-      --color-destructive-foreground: hsl(0 0% 98%);
-      --color-border: hsl(240 3.7% 15.9%);
-      --color-input: hsl(240 3.7% 15.9%);
-      --color-ring: hsl(240 4.9% 83.9%);
+      --color-destructive: hsl(0 70% 50%);
+      --color-destructive-foreground: hsl(0 0% 100%);
+      --color-border: hsl(150 30% 22%);
+      --color-input: hsl(150 30% 22%);
+      --color-ring: hsl(150 25% 75%);
 
-      /* Custom app colors - dark mode */
-      --color-difficulty-easy: hsl(142 69% 58%);
-      --color-difficulty-medium: hsl(45 93% 58%);
-      --color-difficulty-hard: hsl(0 84% 70%);
+      /* Custom app colors – dark mode, lekko jaśniejsze dla czytelności */
+      --color-difficulty-easy: hsl(142 55% 55%);
+      --color-difficulty-medium: hsl(38 95% 58%);
+      --color-difficulty-hard: hsl(0 75% 62%);
     }
   }
 }

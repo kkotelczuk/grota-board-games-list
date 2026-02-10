@@ -17,6 +17,10 @@ export type GameEntity = {
   language: string | null;
   owner: string | null;
   imageUrl: string | null;
+  /** Whether the image is a locally cached cover from BGG */
+  hasLocalCover: boolean;
+  /** BoardGameGeek game page URL (from covers manifest or CSV BGG ID) */
+  bggUrl?: string | null;
   raw: Record<string, string | null>;
 };
 

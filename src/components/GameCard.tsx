@@ -34,7 +34,7 @@ export function GameCard({ game }: GameCardProps) {
   return (
     <article className="group relative flex flex-col overflow-hidden rounded-lg border bg-card text-card-foreground shadow-sm transition-all hover:shadow-md hover:-translate-y-0.5">
       {/* Cover image */}
-      <div className="relative aspect-[3/4] w-full overflow-hidden bg-muted">
+      <div className="relative aspect-square w-full overflow-hidden bg-muted">
         {showFallback ? (
           <ImageFallback gameName={game.name} className="rounded-t-lg" />
         ) : (
@@ -51,7 +51,18 @@ export function GameCard({ game }: GameCardProps) {
       {/* Content */}
       <div className="flex flex-1 flex-col gap-2 p-3">
         <h3 className="font-semibold leading-tight line-clamp-2 text-sm">
-          {game.name}
+          {game.bggUrl ? (
+            <a
+              href={game.bggUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary underline-offset-4 hover:underline focus:outline-none focus:ring-2 focus:ring-ring rounded"
+            >
+              {game.name}
+            </a>
+          ) : (
+            game.name
+          )}
         </h3>
 
         {/* Parameters */}

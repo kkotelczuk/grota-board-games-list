@@ -29,7 +29,20 @@ export function GameRow({ game }: GameRowProps) {
     <article className="flex items-center gap-4 rounded-lg border bg-card p-3 text-card-foreground transition-colors hover:bg-accent/50">
       {/* Game name */}
       <div className="flex-1 min-w-0">
-        <h3 className="font-medium leading-tight truncate">{game.name}</h3>
+        <h3 className="font-medium leading-tight truncate">
+          {game.bggUrl ? (
+            <a
+              href={game.bggUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary underline-offset-4 hover:underline focus:outline-none focus:ring-2 focus:ring-ring rounded truncate block"
+            >
+              {game.name}
+            </a>
+          ) : (
+            game.name
+          )}
+        </h3>
       </div>
 
       {/* Parameters */}

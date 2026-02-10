@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T21:58:52.107Z",
+  "updatedAt": "2026-02-10T12:58:23.151Z",
   "games": [
     {
       "id": null,
@@ -14,7 +14,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "1941 Race to Moscow",
         "Język": "Angielski",
@@ -22,7 +21,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "3.09",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/1941-race-to-moscow.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/190572"
     },
     {
       "id": null,
@@ -37,7 +39,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "1989 Jesień narodów",
         "Język": "Polski",
@@ -45,7 +46,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "3.29",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/1989-jesien-narodow.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/26997"
     },
     {
       "id": null,
@@ -60,7 +64,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "7 Cudów świata",
         "Język": "Polski",
@@ -68,7 +71,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.32",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/7-cudow-swiata.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/143085"
     },
     {
       "id": null,
@@ -83,7 +89,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "7 cudów świata pojedynek",
         "Język": "Polski",
@@ -91,7 +96,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.22",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/7-cudow-swiata-pojedynek.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/173346"
     },
     {
       "id": null,
@@ -106,7 +114,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Achaja",
         "Język": "Polski",
@@ -114,7 +121,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "3.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/achaja.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/177857"
     },
     {
       "id": null,
@@ -129,7 +139,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Adrenaline",
         "Język": "Polski",
@@ -137,7 +146,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.38",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/adrenaline.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/202408"
     },
     {
       "id": null,
@@ -152,7 +164,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Akademia smoczych wrót",
         "Język": "Polski",
@@ -160,7 +171,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "3.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/akademia-smoczych-wrot.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/184704"
     },
     {
       "id": null,
@@ -175,7 +189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Alchemicy",
         "Język": "Polski",
@@ -183,7 +196,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "3.92",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/alchemicy.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/161970"
     },
     {
       "id": null,
@@ -198,7 +214,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Ark Nova",
         "Język": "Polski",
@@ -206,7 +221,10 @@
         "Długość gry(min)": "90-150",
         "BGG Trudność": "3.77",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/ark-nova.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/342942"
     },
     {
       "id": null,
@@ -221,7 +239,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Atlantis island of gods ",
         "Język": "Polski",
@@ -229,7 +246,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "3.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/atlantis-island-of-gods.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/253766"
     },
     {
       "id": null,
@@ -244,7 +264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Avalon",
         "Język": "Polski",
@@ -252,7 +271,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.74",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/avalon.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/1862"
     },
     {
       "id": null,
@@ -267,7 +289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Bankrut",
         "Język": "Polski",
@@ -275,7 +296,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.20",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/bankrut.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/357174"
     },
     {
       "id": null,
@@ -290,7 +314,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Battle of Britain",
         "Język": "Angielski",
@@ -298,7 +321,10 @@
         "Długość gry(min)": "90-180",
         "BGG Trudność": "2.50",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/battle-of-britain.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/407396"
     },
     {
       "id": null,
@@ -313,7 +339,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Black mirror NOSEDIVE",
         "Język": "Polski",
@@ -321,7 +346,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.80",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/black-mirror-nosedive.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/265316"
     },
     {
       "id": null,
@@ -336,7 +364,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Black Orchestra",
         "Język": "Polski",
@@ -344,7 +371,10 @@
         "Długość gry(min)": "90",
         "BGG Trudność": "2.42",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/black-orchestra.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/156858"
     },
     {
       "id": null,
@@ -359,7 +389,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Blok ekipa Szacun na rejonie",
         "Język": "Polski",
@@ -367,7 +396,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/blok-ekipa-szacun-na-rejonie.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/388999"
     },
     {
       "id": null,
@@ -382,7 +414,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Bora bora",
         "Język": "Angielski",
@@ -390,7 +421,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "3.73",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/bora-bora.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/279875"
     },
     {
       "id": null,
@@ -405,7 +439,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Boss Monster",
         "Język": "Angielski",
@@ -413,7 +446,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.85",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/boss-monster.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/174973"
     },
     {
       "id": null,
@@ -428,7 +464,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Boss Monster next level",
         "Język": "Polski",
@@ -436,7 +471,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.84",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/boss-monster-next-level.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/174973"
     },
     {
       "id": null,
@@ -451,7 +489,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Bossing Space",
         "Język": "Polski",
@@ -459,7 +496,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -474,7 +514,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Brass lancanshire",
         "Język": "Polski",
@@ -482,7 +521,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "3.85",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -497,7 +539,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Brian Boru",
         "Język": "Polski",
@@ -505,7 +546,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "2.54",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/brian-boru.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/337765"
     },
     {
       "id": null,
@@ -520,7 +564,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Brother and Unity",
         "Język": "Angielski",
@@ -528,7 +571,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "2.96",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/brother-and-unity.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/255570"
     },
     {
       "id": null,
@@ -543,7 +589,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Brzdęk ",
         "Język": "Polski",
@@ -551,7 +596,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "2.23",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/brzdek.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/257276"
     },
     {
       "id": null,
@@ -566,7 +614,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Budowa Miasta",
         "Język": "Polski",
@@ -574,7 +621,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.75",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/budowa-miasta.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/177875"
     },
     {
       "id": null,
@@ -589,7 +639,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Burning Banners",
         "Język": "Angielski",
@@ -597,7 +646,10 @@
         "Długość gry(min)": "60-240",
         "BGG Trudność": "3.0",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/burning-banners.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/389820"
     },
     {
       "id": null,
@@ -612,7 +664,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Camel up po zawodach",
         "Język": "Polski",
@@ -620,7 +671,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/camel-up-po-zawodach.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/335271"
     },
     {
       "id": null,
@@ -635,7 +689,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Captain Sonar",
         "Język": "Polski",
@@ -643,7 +696,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.19",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/captain-sonar.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/171131"
     },
     {
       "id": null,
@@ -658,7 +714,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Captains Log",
         "Język": "Angielski",
@@ -666,7 +721,10 @@
         "Długość gry(min)": "60-240",
         "BGG Trudność": "4.19",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/captains-log.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/434339"
     },
     {
       "id": null,
@@ -681,7 +739,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Carcassone",
         "Język": "Polski",
@@ -689,7 +746,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.89",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -704,7 +764,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Cards against humanity",
         "Język": "Polski",
@@ -712,7 +771,10 @@
         "Długość gry(min)": "30-90",
         "BGG Trudność": "1.18",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -727,7 +789,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Carpe Diem",
         "Język": "Polski",
@@ -735,7 +796,10 @@
         "Długość gry(min)": "75",
         "BGG Trudność": "2.51",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/carpe-diem.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/245934"
     },
     {
       "id": null,
@@ -750,7 +814,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Churchill",
         "Język": "Angielski",
@@ -758,7 +821,10 @@
         "Długość gry(min)": "120-240",
         "BGG Trudność": "3.37",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/churchill.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/132018"
     },
     {
       "id": null,
@@ -773,7 +839,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Clank",
         "Język": "Angielski",
@@ -781,7 +846,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.23",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -796,7 +864,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Colonial",
         "Język": "Angielski",
@@ -804,7 +871,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/colonial.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/36240"
     },
     {
       "id": null,
@@ -819,7 +889,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Colt Express",
         "Język": "Polski",
@@ -827,7 +896,10 @@
         "Długość gry(min)": "40",
         "BGG Trudność": "1.83",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/colt-express.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/158899"
     },
     {
       "id": null,
@@ -842,7 +914,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Combat Commander",
         "Język": "Angielski",
@@ -850,7 +921,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "3.25",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/combat-commander.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/17061"
     },
     {
       "id": null,
@@ -865,7 +939,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Cooper Island",
         "Język": "Polski",
@@ -873,7 +946,10 @@
         "Długość gry(min)": "75-150",
         "BGG Trudność": "4.17",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/cooper-island.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/269511"
     },
     {
       "id": null,
@@ -888,7 +964,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Cosmic encounter",
         "Język": "Angielski",
@@ -896,7 +971,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "2.58",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/cosmic-encounter.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/15"
     },
     {
       "id": null,
@@ -911,7 +989,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Cytadela",
         "Język": "Polski",
@@ -919,7 +996,10 @@
         "Długość gry(min)": "20-60",
         "BGG Trudność": "2.05",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/cytadela.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/478"
     },
     {
       "id": null,
@@ -934,7 +1014,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Czarne historie boże narodzenie",
         "Język": "Polski",
@@ -942,7 +1021,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/czarne-historie-boze-narodzenie.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/111327"
     },
     {
       "id": null,
@@ -957,7 +1039,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Czaszk z sedlec",
         "Język": "Polski",
@@ -965,7 +1046,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.25",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/czaszk-z-sedlec.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/303553"
     },
     {
       "id": null,
@@ -980,7 +1064,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Daj Namiar",
         "Język": "Polski",
@@ -988,7 +1071,10 @@
         "Długość gry(min)": "10",
         "BGG Trudność": "1.08",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/daj-namiar.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/300753"
     },
     {
       "id": null,
@@ -1003,7 +1089,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Defcon 1",
         "Język": "Angielski",
@@ -1011,7 +1096,10 @@
         "Długość gry(min)": "90-180",
         "BGG Trudność": "3.41",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/defcon-1.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/258487"
     },
     {
       "id": null,
@@ -1026,7 +1114,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Defcon 1 Deep dive",
         "Język": "Angielski",
@@ -1034,7 +1121,10 @@
         "Długość gry(min)": "90-180",
         "BGG Trudność": "4.50",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/defcon-1-deep-dive.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/413434"
     },
     {
       "id": null,
@@ -1049,7 +1139,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Democracy under siege",
         "Język": "Angielski",
@@ -1057,7 +1146,10 @@
         "Długość gry(min)": "180",
         "BGG Trudność": "3.67",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/democracy-under-siege.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/90568"
     },
     {
       "id": null,
@@ -1072,7 +1164,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Desert storm the hundred hour war",
         "Język": "Angielski",
@@ -1080,7 +1171,10 @@
         "Długość gry(min)": "120-240",
         "BGG Trudność": "4.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/desert-storm-the-hundred-hour-war.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/387502"
     },
     {
       "id": null,
@@ -1095,7 +1189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Dice Throne Sezon 1 rerolled",
         "Język": "Polski",
@@ -1103,7 +1196,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.07",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/dice-throne-sezon-1-rerolled.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/291794"
     },
     {
       "id": null,
@@ -1118,7 +1214,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Die Burgen von Burgund",
         "Język": "Angielski",
@@ -1126,7 +1221,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "2.98",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/die-burgen-von-burgund.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/84876"
     },
     {
       "id": null,
@@ -1141,7 +1239,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Diune Imperium",
         "Język": "Polski",
@@ -1149,7 +1246,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "3.06",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1164,7 +1264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Dixit odyseja",
         "Język": "Polski",
@@ -1172,7 +1271,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.16",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/dixit-odyseja.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/92828"
     },
     {
       "id": null,
@@ -1187,7 +1289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Dochodzenie detektyw kontra seryjny zabójca",
         "Język": "Polski",
@@ -1195,7 +1296,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.58",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/dochodzenie-detektyw-kontra-seryjny-zabojca.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/156129"
     },
     {
       "id": null,
@@ -1210,7 +1314,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Domek",
         "Język": "Polski",
@@ -1218,7 +1321,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.65",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/domek.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/194880"
     },
     {
       "id": null,
@@ -1233,7 +1339,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Duuuszki Bądź szybki jak b lyskawica",
         "Język": "Polski",
@@ -1241,7 +1346,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.14",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1256,7 +1364,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Eksplodujące kotki",
         "Język": "Polski",
@@ -1264,7 +1371,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.08",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/eksplodujace-kotki.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/172225"
     },
     {
       "id": null,
@@ -1279,7 +1389,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "El gaucho",
         "Język": "Polski",
@@ -1287,7 +1396,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.23",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/el-gaucho.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/162823"
     },
     {
       "id": null,
@@ -1302,7 +1414,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Enclave zakon krańca świata",
         "Język": "Polski",
@@ -1310,7 +1421,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "3.18",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/enclave-zakon-kranca-swiata.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/126274"
     },
     {
       "id": null,
@@ -1325,7 +1439,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Epic pojedynek",
         "Język": "Polski",
@@ -1333,7 +1446,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "2.67",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/epic-pojedynek.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/287608"
     },
     {
       "id": null,
@@ -1348,7 +1464,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Epic Spell Wars of the battle Wizards",
         "Język": "Polski",
@@ -1356,7 +1471,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.56",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/epic-spell-wars-of-the-battle-wizards.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/422611"
     },
     {
       "id": null,
@@ -1371,7 +1489,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Europa 1912 wsiąść do pociągu",
         "Język": "Polski",
@@ -1379,7 +1496,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.93",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/europa-1912-wsiasc-do-pociagu.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/53383"
     },
     {
       "id": null,
@@ -1394,7 +1514,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Everdell",
         "Język": "Polski",
@@ -1402,7 +1521,10 @@
         "Długość gry(min)": "40-80",
         "BGG Trudność": "2.82",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/everdell.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/199792"
     },
     {
       "id": null,
@@ -1417,7 +1539,6 @@
       },
       "language": "Niemiecki",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Explorers",
         "Język": "Niemiecki",
@@ -1425,7 +1546,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.89",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/explorers.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/10854"
     },
     {
       "id": null,
@@ -1440,7 +1564,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Fantastyczne światy",
         "Język": "Polski",
@@ -1448,7 +1571,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.8",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/fantastyczne-swiaty.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/223040"
     },
     {
       "id": null,
@@ -1463,7 +1589,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Fief 1429",
         "Język": "Polski",
@@ -1471,7 +1596,10 @@
         "Długość gry(min)": "120-240",
         "BGG Trudność": "3.81",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/fief-1429.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/152470"
     },
     {
       "id": null,
@@ -1486,7 +1614,6 @@
       },
       "language": "Francuski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Fight Ambre",
         "Język": "Francuski",
@@ -1494,7 +1621,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1509,7 +1639,6 @@
       },
       "language": "Francuski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Fight Jack",
         "Język": "Francuski",
@@ -1517,7 +1646,10 @@
         "Długość gry(min)": "60-12",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/fight-jack.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/186357"
     },
     {
       "id": null,
@@ -1532,7 +1664,6 @@
       },
       "language": "Francuski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Fight Natasha",
         "Język": "Francuski",
@@ -1540,7 +1671,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1555,7 +1689,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Flick em up Dzika strzelanka",
         "Język": "Polski",
@@ -1563,7 +1696,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.34",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/flick-em-up-dzika-strzelanka.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/169124"
     },
     {
       "id": null,
@@ -1578,7 +1714,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Gejsze",
         "Język": "Polski",
@@ -1586,7 +1721,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.68",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/gejsze.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/158600"
     },
     {
       "id": null,
@@ -1601,7 +1739,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Gloom",
         "Język": "Polski",
@@ -1609,7 +1746,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "1.63",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/gloom.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/317365"
     },
     {
       "id": null,
@@ -1624,7 +1764,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Glory droga do chwaly",
         "Język": "Polski",
@@ -1632,7 +1771,10 @@
         "Długość gry(min)": "30/player",
         "BGG Trudność": "2.85",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/glory-droga-do-chwaly.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/206757"
     },
     {
       "id": null,
@@ -1647,7 +1789,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "God of war ",
         "Język": "Polski",
@@ -1655,7 +1796,10 @@
         "Długość gry(min)": "90",
         "BGG Trudność": "2.52",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/god-of-war.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/289175"
     },
     {
       "id": null,
@@ -1670,7 +1814,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Gra o tron",
         "Język": "Polski",
@@ -1678,7 +1821,10 @@
         "Długość gry(min)": "120-240",
         "BGG Trudność": "3.73",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/gra-o-tron.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/6472"
     },
     {
       "id": null,
@@ -1693,7 +1839,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Grajeczka",
         "Język": "Polski",
@@ -1701,7 +1846,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.29",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/grajeczka.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/220780"
     },
     {
       "id": null,
@@ -1716,7 +1864,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Grim forest",
         "Język": "Angielski",
@@ -1724,7 +1871,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "1.93",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/grim-forest.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/212402"
     },
     {
       "id": null,
@@ -1739,7 +1889,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Grzybobranie rajd samochodowy",
         "Język": "Polski",
@@ -1747,7 +1896,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1762,7 +1914,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Hannabi",
         "Język": "Polski",
@@ -1770,7 +1921,10 @@
         "Długość gry(min)": "25",
         "BGG Trudność": "1.69",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1785,7 +1939,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Hansa Teutonica",
         "Język": "Polski",
@@ -1793,7 +1946,10 @@
         "Długość gry(min)": "40-90",
         "BGG Trudność": "3.09",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/hansa-teutonica.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/43015"
     },
     {
       "id": null,
@@ -1808,7 +1964,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Hearts and minds vietnam 1965-1975",
         "Język": "Angielski",
@@ -1816,7 +1971,10 @@
         "Długość gry(min)": "60-600",
         "BGG Trudność": "2.76",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/hearts-and-minds-vietnam-1965-1975.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/27739"
     },
     {
       "id": null,
@@ -1831,7 +1989,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Iki",
         "Język": "Polski",
@@ -1839,7 +1996,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "3.04",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/iki.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/309"
     },
     {
       "id": null,
@@ -1854,7 +2014,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Imperial Struggle",
         "Język": "Polski",
@@ -1862,7 +2021,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "4.06",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/imperial-struggle.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/206480"
     },
     {
       "id": null,
@@ -1877,7 +2039,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Jak Wściekłe psy",
         "Język": "Polski",
@@ -1885,7 +2046,10 @@
         "Długość gry(min)": "45-60",
         "BGG Trudność": "1.06",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/jak-wscieke-psy.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/184522"
     },
     {
       "id": null,
@@ -1900,7 +2064,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Jednym słowem",
         "Język": "Polski",
@@ -1908,7 +2071,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.04",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/jednym-sowem.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/254640"
     },
     {
       "id": null,
@@ -1923,7 +2089,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Joan of arc",
         "Język": "Angielski",
@@ -1931,7 +2096,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "2.54",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -1946,7 +2114,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Joking Hazard",
         "Język": "Polski",
@@ -1954,7 +2121,10 @@
         "Długość gry(min)": "30-90",
         "BGG Trudność": "1.02",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/joking-hazard.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/193621"
     },
     {
       "id": null,
@@ -1969,7 +2139,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Jolly Roger Piracka gra o łupach i buntach",
         "Język": "Polski",
@@ -1977,7 +2146,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.94",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/jolly-roger-piracka-gra-o-upach-i-buntach.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/165959"
     },
     {
       "id": null,
@@ -1992,7 +2164,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Jorvik",
         "Język": "Polski",
@@ -2000,7 +2171,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "2.38",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/jorvik.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/193739"
     },
     {
       "id": null,
@@ -2015,7 +2189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Jungle speed",
         "Język": "Polski",
@@ -2023,7 +2196,10 @@
         "Długość gry(min)": "10",
         "BGG Trudność": "1.13",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/jungle-speed.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/8098"
     },
     {
       "id": null,
@@ -2038,7 +2214,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kartografowie",
         "Język": "Polski",
@@ -2046,7 +2221,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.88",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/kartografowie.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/263918"
     },
     {
       "id": null,
@@ -2061,7 +2239,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Karty dżentelmenów 1",
         "Język": "Polski",
@@ -2069,7 +2246,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2084,7 +2264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Karty dżentelmenów 2",
         "Język": "Polski",
@@ -2092,7 +2271,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2107,7 +2289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Keyflower",
         "Język": "Polski",
@@ -2115,7 +2296,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "3.34",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/keyflower.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/122515"
     },
     {
       "id": null,
@@ -2130,7 +2314,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kibole wyjazd na mecz",
         "Język": "Polski",
@@ -2138,7 +2321,10 @@
         "Długość gry(min)": "",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2153,7 +2339,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Klub Detektywów",
         "Język": "Polski",
@@ -2161,7 +2346,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/klub-detektywow.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/256788"
     },
     {
       "id": null,
@@ -2176,7 +2364,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kłamcianka",
         "Język": "Polski",
@@ -2184,7 +2371,10 @@
         "Długość gry(min)": "",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/kamcianka.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/163279"
     },
     {
       "id": null,
@@ -2199,7 +2389,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Komiks Gra karciana",
         "Język": "Polski",
@@ -2207,7 +2396,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2222,7 +2414,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kości obfitości",
         "Język": "Polski",
@@ -2230,7 +2421,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.34",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/kosci-obfitosci.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/231280"
     },
     {
       "id": null,
@@ -2245,7 +2439,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kraina snów",
         "Język": "Polski",
@@ -2253,7 +2446,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.19",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/kraina-snow.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/198454"
     },
     {
       "id": null,
@@ -2268,7 +2464,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Kruki",
         "Język": "Polski",
@@ -2276,7 +2471,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.23",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/kruki.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/192074"
     },
     {
       "id": null,
@@ -2291,7 +2489,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "La Cosa Nostra",
         "Język": "Polski",
@@ -2299,7 +2496,10 @@
         "Długość gry(min)": "90",
         "BGG Trudność": "2.61",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/la-cosa-nostra.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/40789"
     },
     {
       "id": null,
@@ -2314,7 +2514,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Labirynt słów",
         "Język": "Polski",
@@ -2322,7 +2521,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.43",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/labirynt-sow.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/257527"
     },
     {
       "id": null,
@@ -2337,7 +2539,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Legendary encounters",
         "Język": "Angielski",
@@ -2345,7 +2546,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.71",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/legendary-encounters.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/339774"
     },
     {
       "id": null,
@@ -2360,7 +2564,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Lewis and Clark",
         "Język": "Polski",
@@ -2368,7 +2571,10 @@
         "Długość gry(min)": "30/player",
         "BGG Trudność": "3.32",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/lewis-and-clark.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/399950"
     },
     {
       "id": null,
@@ -2383,7 +2589,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Liberty of Death the american insurrection",
         "Język": "Angielski",
@@ -2391,7 +2596,10 @@
         "Długość gry(min)": "180-360",
         "BGG Trudność": "4.07",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/liberty-of-death-the-american-insurrection.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/165872"
     },
     {
       "id": null,
@@ -2406,7 +2614,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "List miłosny",
         "Język": "Polski",
@@ -2414,7 +2621,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.18",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/list-miosny.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/129622"
     },
     {
       "id": null,
@@ -2429,7 +2639,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Loyang",
         "Język": "Polski",
@@ -2437,7 +2646,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/loyang.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/39683"
     },
     {
       "id": null,
@@ -2452,7 +2664,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Łowcy kryształow",
         "Język": "Polski",
@@ -2460,7 +2671,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.69",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/owcy-krysztaow.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/228183"
     },
     {
       "id": null,
@@ -2475,7 +2689,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mafia",
         "Język": "Polski",
@@ -2483,7 +2696,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "1.29",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mafia.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/148280"
     },
     {
       "id": null,
@@ -2498,7 +2714,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Majesty",
         "Język": "Polski",
@@ -2506,7 +2721,10 @@
         "Długość gry(min)": "20-30",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/majesty.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/279639"
     },
     {
       "id": null,
@@ -2521,7 +2739,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mamy szpiega",
         "Język": "Polski",
@@ -2529,7 +2746,10 @@
         "Długość gry(min)": "15-30",
         "BGG Trudność": "1.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mamy-szpiega.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/193308"
     },
     {
       "id": null,
@@ -2544,7 +2764,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Marvel Xmen bunt mutantów",
         "Język": "Polski",
@@ -2552,7 +2771,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "3.22",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2567,7 +2789,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Massive Darkness 2 Hellspace",
         "Język": "Polski",
@@ -2575,7 +2796,10 @@
         "Długość gry(min)": "120",
         "BGG Trudność": "2.74",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2590,7 +2814,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Master of Orion",
         "Język": "Polski",
@@ -2598,7 +2821,10 @@
         "Długość gry(min)": "40-60",
         "BGG Trudność": "2.43",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/master-of-orion.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/402764"
     },
     {
       "id": null,
@@ -2613,7 +2839,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Metro 2033",
         "Język": "Polski",
@@ -2621,7 +2846,10 @@
         "Długość gry(min)": "80",
         "BGG Trudność": "2.64",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/metro-2033.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/112210"
     },
     {
       "id": null,
@@ -2636,7 +2864,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mindtrap",
         "Język": "Angielski",
@@ -2644,7 +2871,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "1.94",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mindtrap.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/1923"
     },
     {
       "id": null,
@@ -2659,7 +2889,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mini cywilizacja",
         "Język": "Polski",
@@ -2667,7 +2896,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mini-cywilizacja.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/182681"
     },
     {
       "id": null,
@@ -2682,7 +2914,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mistakos walka o stołki",
         "Język": "Polski",
@@ -2690,7 +2921,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.03",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2705,7 +2939,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mistfall",
         "Język": "Polski",
@@ -2713,7 +2946,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "3.95",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mistfall.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/168274"
     },
     {
       "id": null,
@@ -2728,7 +2964,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mr House",
         "Język": "Polski",
@@ -2736,7 +2971,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.63",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/mr-house.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/164670"
     },
     {
       "id": null,
@@ -2751,7 +2989,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Mr Jack pocket",
         "Język": "Polski",
@@ -2759,7 +2996,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.82",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/mr-jack-pocket.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/72287"
     },
     {
       "id": null,
@@ -2774,7 +3014,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Neuroshima Hex",
         "Język": "Polski",
@@ -2782,7 +3021,10 @@
         "Długość gry(min)": "40",
         "BGG Trudność": "2.61",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/neuroshima-hex.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/21241"
     },
     {
       "id": null,
@@ -2797,7 +3039,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Nie testowalśmy tego wcale",
         "Język": "Polski",
@@ -2805,7 +3046,10 @@
         "Długość gry(min)": "10",
         "BGG Trudność": "1.06",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -2820,7 +3064,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Nowy Jork 1901",
         "Język": "Polski",
@@ -2828,7 +3071,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.05",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/nowy-jork-1901.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/174660"
     },
     {
       "id": null,
@@ -2843,7 +3089,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Odmęty Grozy",
         "Język": "Polski",
@@ -2851,7 +3096,10 @@
         "Długość gry(min)": "120-240",
         "BGG Trudność": "3.12",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/odmety-grozy.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/340466"
     },
     {
       "id": null,
@@ -2866,7 +3114,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Palec Boży",
         "Język": "Polski",
@@ -2874,7 +3121,10 @@
         "Długość gry(min)": "40",
         "BGG Trudność": "1.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/palec-bozy.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/281194"
     },
     {
       "id": null,
@@ -2889,7 +3139,6 @@
       },
       "language": "Niemiecki",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pan lodowego ogrodu",
         "Język": "Niemiecki",
@@ -2897,7 +3146,10 @@
         "Długość gry(min)": "90-150",
         "BGG Trudność": "4.07",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/pan-lodowego-ogrodu.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/157917"
     },
     {
       "id": null,
@@ -2912,7 +3164,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pan tu nie stał demoludy",
         "Język": "Polski",
@@ -2920,7 +3171,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.30",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/pan-tu-nie-sta-demoludy.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/174065"
     },
     {
       "id": null,
@@ -2935,7 +3189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pandemic",
         "Język": "Polski",
@@ -2943,7 +3196,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.40",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/pandemic.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/375090"
     },
     {
       "id": null,
@@ -2958,7 +3214,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pangea",
         "Język": "Polski",
@@ -2966,7 +3221,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "3.17",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/pangea.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/23631"
     },
     {
       "id": null,
@@ -2981,7 +3239,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pełny kurnik",
         "Język": "Polski",
@@ -2989,7 +3246,10 @@
         "Długość gry(min)": "15-30",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/peny-kurnik.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/286080"
     },
     {
       "id": null,
@@ -3004,7 +3264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pictomania",
         "Język": "Polski",
@@ -3012,7 +3271,10 @@
         "Długość gry(min)": "25",
         "BGG Trudność": "1.53",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/pictomania.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/98229"
     },
     {
       "id": null,
@@ -3027,7 +3289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Podaj dalej",
         "Język": "Polski",
@@ -3035,7 +3296,10 @@
         "Długość gry(min)": "",
         "BGG Trudność": "1.07",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/podaj-dalej.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/46213"
     },
     {
       "id": null,
@@ -3050,7 +3314,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Podaj dalej bez cenzury",
         "Język": "Polski",
@@ -3058,7 +3321,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/podaj-dalej-bez-cenzury.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/173761"
     },
     {
       "id": null,
@@ -3073,7 +3339,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Polska gola",
         "Język": "Polski",
@@ -3081,7 +3346,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.04",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/polska-gola.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/21930"
     },
     {
       "id": null,
@@ -3096,7 +3364,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Poprzez wieki droga do szaleństwa",
         "Język": "Polski",
@@ -3104,7 +3371,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.49",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/poprzez-wieki-droga-do-szalenstwa.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/195544"
     },
     {
       "id": null,
@@ -3119,7 +3389,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Poszły konie",
         "Język": "Polski",
@@ -3127,7 +3396,10 @@
         "Długość gry(min)": "45-60",
         "BGG Trudność": "1.33",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/poszy-konie.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/351040"
     },
     {
       "id": null,
@@ -3142,7 +3414,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Pośród gwiazd",
         "Język": "Polski",
@@ -3150,7 +3421,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/posrod-gwiazd.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/110277"
     },
     {
       "id": null,
@@ -3165,7 +3439,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Praga caput regni",
         "Język": "Polski",
@@ -3173,7 +3446,10 @@
         "Długość gry(min)": "45-150",
         "BGG Trudność": "3.74",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/praga-caput-regni.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/308765"
     },
     {
       "id": null,
@@ -3188,7 +3464,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Prezencik",
         "Język": "Polski",
@@ -3196,7 +3471,10 @@
         "Długość gry(min)": "15-20",
         "BGG Trudność": "1.13",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/prezencik.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/12942"
     },
     {
       "id": null,
@@ -3211,7 +3489,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Przebiegłe wielbłądy wszystko na jedną kartę",
         "Język": "Polski",
@@ -3219,7 +3496,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "1.73",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/przebiege-wielbady-wszystko-na-jedna-karte.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/192947"
     },
     {
       "id": null,
@@ -3234,7 +3514,6 @@
       },
       "language": "Polski",
       "owner": "Marcin",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Quoridor",
         "Język": "Polski",
@@ -3242,7 +3521,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.82",
         "Własność": "Marcin"
-      }
+      },
+      "imageUrl": "/images/covers/quoridor.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/624"
     },
     {
       "id": null,
@@ -3257,7 +3539,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race for the galaxy",
         "Język": "Angielski",
@@ -3265,7 +3546,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.99",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/race-for-the-galaxy.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/145148"
     },
     {
       "id": null,
@@ -3280,7 +3564,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race for the galaxy gathering storm",
         "Język": "Angielski",
@@ -3288,7 +3571,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.99",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/race-for-the-galaxy-gathering-storm.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/34499"
     },
     {
       "id": null,
@@ -3303,7 +3589,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race for the galaxy narodziny imperium",
         "Język": "Polski",
@@ -3311,7 +3596,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.99",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3326,7 +3614,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race for the galaxy rebel kontra imperium",
         "Język": "Angielski",
@@ -3334,7 +3621,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.99",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3349,7 +3639,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race for the galaxy rebel xeno invasion",
         "Język": "Angielski",
@@ -3357,7 +3646,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.99",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3372,7 +3664,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Race to Berlin 1945",
         "Język": "Angielski",
@@ -3380,7 +3671,10 @@
         "Długość gry(min)": "150",
         "BGG Trudność": "2.75",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/race-to-berlin-1945.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/106910"
     },
     {
       "id": null,
@@ -3395,7 +3689,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Red 7",
         "Język": "Polski",
@@ -3403,7 +3696,10 @@
         "Długość gry(min)": "5-30",
         "BGG Trudność": "1.70",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/red-7.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/161417"
     },
     {
       "id": null,
@@ -3418,7 +3714,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Rising Sun",
         "Język": "Polski",
@@ -3426,7 +3721,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "3.30",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/rising-sun.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/39557"
     },
     {
       "id": null,
@@ -3441,7 +3739,6 @@
       },
       "language": "Angielski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Road rally usa",
         "Język": "Angielski",
@@ -3449,7 +3746,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.83",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/road-rally-usa.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/136954"
     },
     {
       "id": null,
@@ -3464,7 +3764,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Root",
         "Język": "Polski",
@@ -3472,7 +3771,10 @@
         "Długość gry(min)": "60-90",
         "BGG Trudność": "3.81",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/root.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/237497"
     },
     {
       "id": null,
@@ -3487,7 +3789,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Rummicube",
         "Język": "Polski",
@@ -3495,7 +3796,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.72",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3510,7 +3814,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Rune Age",
         "Język": "Polski",
@@ -3518,7 +3821,10 @@
         "Długość gry(min)": "20-60",
         "BGG Trudność": "2.28",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/rune-age.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/94362"
     },
     {
       "id": null,
@@ -3533,7 +3839,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Sabotażysta",
         "Język": "Polski",
@@ -3541,7 +3846,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.32",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/sabotazysta.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/9220"
     },
     {
       "id": null,
@@ -3556,7 +3864,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Sabotażysta",
         "Język": "Polski",
@@ -3564,7 +3871,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.32",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/sabotazysta.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/9220"
     },
     {
       "id": null,
@@ -3579,7 +3889,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Sabotażysta rozszerzenie",
         "Język": "Polski",
@@ -3587,7 +3896,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.54",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/sabotazysta-rozszerzenie.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/91072"
     },
     {
       "id": null,
@@ -3602,7 +3914,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Santa Maria",
         "Język": "Polski",
@@ -3610,7 +3921,10 @@
         "Długość gry(min)": "45-90",
         "BGG Trudność": "3.03",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/santa-maria.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/229220"
     },
     {
       "id": null,
@@ -3625,7 +3939,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Santa monica",
         "Język": "Polski",
@@ -3633,7 +3946,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.13",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/santa-monica.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/39698"
     },
     {
       "id": null,
@@ -3648,7 +3964,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Scythe Fenris Powstaje",
         "Język": "Polski",
@@ -3656,7 +3971,10 @@
         "Długość gry(min)": "75-150",
         "BGG Trudność": "3.41",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/scythe-fenris-powstaje.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/242277"
     },
     {
       "id": null,
@@ -3671,7 +3989,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Scythe the wind gambit",
         "Język": "Angielski",
@@ -3679,7 +3996,10 @@
         "Długość gry(min)": "70-140",
         "BGG Trudność": "3.42",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/scythe-the-wind-gambit.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/223555"
     },
     {
       "id": null,
@@ -3694,7 +4014,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Seafall",
         "Język": "Polski",
@@ -3702,7 +4021,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "3.81",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/seafall.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/148261"
     },
     {
       "id": null,
@@ -3717,7 +4039,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Skull",
         "Język": "Polski",
@@ -3725,7 +4046,10 @@
         "Długość gry(min)": "15-30",
         "BGG Trudność": "1.11",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/skull.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/287413"
     },
     {
       "id": null,
@@ -3740,7 +4064,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Słowny ninja",
         "Język": "Polski",
@@ -3748,7 +4071,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/sowny-ninja.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/226354"
     },
     {
       "id": null,
@@ -3763,7 +4089,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Small World Warcraft",
         "Język": "Polski",
@@ -3771,7 +4096,10 @@
         "Długość gry(min)": "40-80",
         "BGG Trudność": "2.66",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/small-world-warcraft.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/309630"
     },
     {
       "id": null,
@@ -3786,7 +4114,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Spartakus",
         "Język": "Polski",
@@ -3794,7 +4121,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "2.73",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/spartakus.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/170245"
     },
     {
       "id": null,
@@ -3809,7 +4139,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Star Wars x-wing",
         "Język": "Polski",
@@ -3817,7 +4146,10 @@
         "Długość gry(min)": "30-45",
         "BGG Trudność": "3.09",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/star-wars-x-wing.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/129431"
     },
     {
       "id": null,
@@ -3832,7 +4164,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Stars Wars The Deckbuilding game",
         "Język": "Polski",
@@ -3840,7 +4171,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.03",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3855,7 +4189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Stars Wars zewnętrzne rubieże",
         "Język": "Polski",
@@ -3863,7 +4196,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "2.57",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3878,7 +4214,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Stars Wars zewnętrzne rubieże niedokończone sprawy",
         "Język": "Polski",
@@ -3886,7 +4221,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "2.82",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -3901,7 +4239,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Stella dixit",
         "Język": "Polski",
@@ -3909,7 +4246,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.13",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/stella-dixit.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/329845"
     },
     {
       "id": null,
@@ -3924,7 +4264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Strażniczki",
         "Język": "Polski",
@@ -3932,7 +4271,10 @@
         "Długość gry(min)": "30-45",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/strazniczki.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/176803"
     },
     {
       "id": null,
@@ -3947,7 +4289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Studium w szmaragdzie",
         "Język": "Polski",
@@ -3955,7 +4296,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.94",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/studium-w-szmaragdzie.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/178054"
     },
     {
       "id": null,
@@ -3970,7 +4314,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Stwór",
         "Język": "Polski",
@@ -3978,7 +4321,10 @@
         "Długość gry(min)": "15-60",
         "BGG Trudność": "1.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/stwor.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/261265"
     },
     {
       "id": null,
@@ -3993,7 +4339,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Successors",
         "Język": "Polski",
@@ -4001,7 +4346,10 @@
         "Długość gry(min)": "180-300",
         "BGG Trudność": "4.10",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/successors.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/445793"
     },
     {
       "id": null,
@@ -4016,7 +4364,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Sushi go party",
         "Język": "Polski",
@@ -4024,7 +4371,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.31",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/sushi-go-party.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/192291"
     },
     {
       "id": null,
@@ -4039,7 +4389,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Suspend",
         "Język": "Polski",
@@ -4047,7 +4396,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/suspend.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/34707"
     },
     {
       "id": null,
@@ -4062,7 +4414,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Szalona Misja",
         "Język": "Polski",
@@ -4070,7 +4421,10 @@
         "Długość gry(min)": "20",
         "BGG Trudność": "1.19",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/szalona-misja.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/136991"
     },
     {
       "id": null,
@@ -4085,7 +4439,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Świat dysku sekary",
         "Język": "Polski",
@@ -4093,7 +4446,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "2.60",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/swiat-dysku-sekary.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/140279"
     },
     {
       "id": null,
@@ -4108,7 +4464,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Taboo",
         "Język": "Polski",
@@ -4116,7 +4471,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.21",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/taboo.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/88549"
     },
     {
       "id": null,
@@ -4131,7 +4489,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tajne agentki",
         "Język": "Polski",
@@ -4139,7 +4496,10 @@
         "Długość gry(min)": "15-30",
         "BGG Trudność": "2.03",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/tajne-agentki.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/229741"
     },
     {
       "id": null,
@@ -4154,7 +4514,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tajniacy",
         "Język": "Polski",
@@ -4162,7 +4521,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.26",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/tajniacy.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/178900"
     },
     {
       "id": null,
@@ -4177,7 +4539,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tajniacy bez cenzury",
         "Język": "Polski",
@@ -4185,7 +4546,10 @@
         "Długość gry(min)": "15+",
         "BGG Trudność": "1.32",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/tajniacy-bez-cenzury.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/205158"
     },
     {
       "id": null,
@@ -4200,7 +4564,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tajniacy obrazki",
         "Język": "Polski",
@@ -4208,7 +4571,10 @@
         "Długość gry(min)": "15",
         "BGG Trudność": "1.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/tajniacy-obrazki.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/198773"
     },
     {
       "id": null,
@@ -4223,7 +4589,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Talisman Batman",
         "Język": "Polski",
@@ -4231,7 +4596,10 @@
         "Długość gry(min)": "90+",
         "BGG Trudność": "2.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/talisman-batman.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/274690"
     },
     {
       "id": null,
@@ -4246,7 +4614,6 @@
       },
       "language": "Polski",
       "owner": "Marcin",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tapestry sztuka i architektura",
         "Język": "Polski",
@@ -4254,7 +4621,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "3.28",
         "Własność": "Marcin"
-      }
+      },
+      "imageUrl": "/images/covers/tapestry-sztuka-i-architektura.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/349998"
     },
     {
       "id": null,
@@ -4269,7 +4639,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Terraformacja Marsa",
         "Język": "Polski",
@@ -4277,7 +4646,10 @@
         "Długość gry(min)": "90-120",
         "BGG Trudność": "3.27",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/terraformacja-marsa.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/420095"
     },
     {
       "id": null,
@@ -4292,7 +4664,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Terrors of London",
         "Język": "Polski",
@@ -4300,7 +4671,10 @@
         "Długość gry(min)": "20-40",
         "BGG Trudność": "2.21",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/terrors-of-london.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/225910"
     },
     {
       "id": null,
@@ -4315,7 +4689,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "The Court of Miracles",
         "Język": "Angielski",
@@ -4323,7 +4696,10 @@
         "Długość gry(min)": "40",
         "BGG Trudność": "2.15",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/the-court-of-miracles.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/270956"
     },
     {
       "id": null,
@@ -4338,7 +4714,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "The human punishment the beginning",
         "Język": "Polski",
@@ -4346,7 +4721,10 @@
         "Długość gry(min)": "120-180",
         "BGG Trudność": "3.56",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/the-human-punishment-the-beginning.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/364573"
     },
     {
       "id": null,
@@ -4361,7 +4739,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Times up celebrity",
         "Język": "Polski",
@@ -4369,7 +4746,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.08",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4384,7 +4764,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Times up family",
         "Język": "Polski",
@@ -4392,7 +4771,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.11",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4407,7 +4789,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Tiny towns",
         "Język": "Angielski",
@@ -4415,7 +4796,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.06",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/tiny-towns.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/265736"
     },
     {
       "id": null,
@@ -4430,7 +4814,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Total domination",
         "Język": "Polski",
@@ -4438,7 +4821,10 @@
         "Długość gry(min)": "90",
         "BGG Trudność": "3.00",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/total-domination.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/139992"
     },
     {
       "id": null,
@@ -4453,7 +4839,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Total domination deluxe set",
         "Język": "Angielski",
@@ -4461,7 +4846,10 @@
         "Długość gry(min)": "",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4476,7 +4864,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Turbo",
         "Język": "Polski",
@@ -4484,7 +4871,10 @@
         "Długość gry(min)": "60",
         "BGG Trudność": "2.19",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/turbo.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/56403"
     },
     {
       "id": null,
@@ -4499,7 +4889,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Ubongo 3d",
         "Język": "Polski",
@@ -4507,7 +4896,10 @@
         "Długość gry(min)": "25",
         "BGG Trudność": "1.94",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/ubongo-3d.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/46396"
     },
     {
       "id": null,
@@ -4522,7 +4914,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Unmatched bruk i mgła",
         "Język": "Polski",
@@ -4530,7 +4921,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.97",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/unmatched-bruk-i-mga.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/294484"
     },
     {
       "id": null,
@@ -4545,7 +4939,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Valeria wyprawy",
         "Język": "Polski",
@@ -4553,7 +4946,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "2.17",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/valeria-wyprawy.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/187680"
     },
     {
       "id": null,
@@ -4568,7 +4964,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Valhalla",
         "Język": "Polski",
@@ -4576,7 +4971,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "2.09",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/valhalla.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/202023"
     },
     {
       "id": null,
@@ -4591,7 +4989,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Vasco da gama",
         "Język": "Polski",
@@ -4599,7 +4996,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "3.24",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/vasco-da-gama.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/41002"
     },
     {
       "id": null,
@@ -4614,7 +5014,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Versailles 1919",
         "Język": "Angielski",
@@ -4622,7 +5021,10 @@
         "Długość gry(min)": "60-120",
         "BGG Trudność": "2.85",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/versailles-1919.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/253506"
     },
     {
       "id": null,
@@ -4637,7 +5039,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Viticulture",
         "Język": "Polski",
@@ -4645,7 +5046,10 @@
         "Długość gry(min)": "45-90",
         "BGG Trudność": "2.94",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/viticulture.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/128621"
     },
     {
       "id": null,
@@ -4660,7 +5064,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Weimar",
         "Język": "Angielski",
@@ -4668,7 +5071,10 @@
         "Długość gry(min)": "360",
         "BGG Trudność": "3.91",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4683,7 +5089,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wir sind das volk",
         "Język": "Angielski",
@@ -4691,7 +5096,10 @@
         "Długość gry(min)": "150",
         "BGG Trudność": "3.74",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/wir-sind-das-volk.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/165401"
     },
     {
       "id": null,
@@ -4706,7 +5114,6 @@
       },
       "language": "Angielski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wir sind das volk dodatek",
         "Język": "Angielski",
@@ -4714,7 +5121,10 @@
         "Długość gry(min)": "150",
         "BGG Trudność": "3.67",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4729,7 +5139,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Władca pierścieni",
         "Język": "Polski",
@@ -4737,7 +5146,10 @@
         "Długość gry(min)": "30-90",
         "BGG Trudność": "2.54",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/wadca-pierscieni.png",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/63268"
     },
     {
       "id": null,
@@ -4752,7 +5164,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wojownicy podziemi 2 edycja",
         "Język": "Polski",
@@ -4760,7 +5171,10 @@
         "Długość gry(min)": "45",
         "BGG Trudność": "1.72",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     },
     {
       "id": null,
@@ -4775,7 +5189,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wsiąść do pociągu europa",
         "Język": "Polski",
@@ -4783,7 +5196,10 @@
         "Długość gry(min)": "30-60",
         "BGG Trudność": "1.92",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/wsiasc-do-pociagu-europa.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/14996"
     },
     {
       "id": null,
@@ -4798,7 +5214,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wyspa kwitnącej wiśni",
         "Język": "Polski",
@@ -4806,7 +5221,10 @@
         "Długość gry(min)": "30",
         "BGG Trudność": "1.93",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/wyspa-kwitnacej-wisni.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/207336"
     },
     {
       "id": null,
@@ -4821,7 +5239,6 @@
       },
       "language": "Polski",
       "owner": "Szczep",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Wystrzałowe katapulty",
         "Język": "Polski",
@@ -4829,7 +5246,10 @@
         "Długość gry(min)": "30-45",
         "BGG Trudność": "1.08",
         "Własność": "Szczep"
-      }
+      },
+      "imageUrl": "/images/covers/wystrzaowe-katapulty.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/310789"
     },
     {
       "id": null,
@@ -4844,7 +5264,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Zaginiona wyspa arnak",
         "Język": "Polski",
@@ -4852,7 +5271,10 @@
         "Długość gry(min)": "30/gracz",
         "BGG Trudność": "2.93",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": "/images/covers/zaginiona-wyspa-arnak.jpg",
+      "hasLocalCover": true,
+      "bggUrl": "https://boardgamegeek.com/boardgame/312484"
     },
     {
       "id": null,
@@ -4867,7 +5289,6 @@
       },
       "language": "Polski",
       "owner": "Grota",
-      "imageUrl": null,
       "raw": {
         "Nazwa gry": "Zgroza xD",
         "Język": "Polski",
@@ -4875,7 +5296,10 @@
         "Długość gry(min)": "",
         "BGG Trudność": "",
         "Własność": "Grota"
-      }
+      },
+      "imageUrl": null,
+      "hasLocalCover": false,
+      "bggUrl": null
     }
   ]
 }
