@@ -21,13 +21,22 @@ jobs:
           node-version: "20"
           cache: npm
 
+      - name: Restore covers cache
+        uses: actions/cache@v4
+        with:
+          path: public/images/covers
+          key: covers-cache-v1
+          restore-keys: |
+            covers-cache-
+
       - name: Install dependencies
         run: npm ci
 
-      - name: Build (fetch data)
+      - name: Build (fetch data and covers)
         env:
           CSV_URL: ${{ secrets.CSV_URL }}
           SITE_URL: ${{ secrets.SITE_URL }}
+          BBG_API_KEY: ${{ secrets.BBG_API_KEY }}
         run: npm run build
 
       - name: Deploy to GitHub Pages
