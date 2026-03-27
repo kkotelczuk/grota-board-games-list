@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-26T05:34:10.625Z",
+  "lastUpdated": "2026-03-27T05:34:53.496Z",
   "covers": {
     "1941-race-to-moscow": {
       "gameName": "1941 Race to Moscow",
@@ -1245,176 +1245,176 @@
   "failed": {
     "bossing-space": {
       "gameName": "Bossing Space",
-      "failedAt": "2026-03-26T05:33:12.181Z",
+      "failedAt": "2026-03-27T05:33:54.291Z",
       "reason": "not_found"
     },
     "brass-lancanshire": {
       "gameName": "Brass lancanshire",
-      "failedAt": "2026-03-26T05:33:13.726Z",
+      "failedAt": "2026-03-27T05:33:55.865Z",
       "reason": "not_found"
     },
     "carcassone": {
       "gameName": "Carcassone",
-      "failedAt": "2026-03-26T05:33:15.334Z",
+      "failedAt": "2026-03-27T05:33:57.426Z",
       "reason": "not_found"
     },
     "cards-against-humanity": {
       "gameName": "Cards against humanity",
       "bggId": "175147",
-      "failedAt": "2026-03-26T05:33:18.572Z",
+      "failedAt": "2026-03-27T05:34:00.721Z",
       "reason": "no_image"
     },
     "clank": {
       "gameName": "Clank",
       "bggId": "132149",
-      "failedAt": "2026-03-26T05:33:21.715Z",
+      "failedAt": "2026-03-27T05:34:04.113Z",
       "reason": "no_image"
     },
     "diune-imperium": {
       "gameName": "Diune Imperium",
-      "failedAt": "2026-03-26T05:33:23.260Z",
+      "failedAt": "2026-03-27T05:34:05.674Z",
       "reason": "not_found"
     },
     "duuuszki-badz-szybki-jak-b-lyskawica": {
       "gameName": "Duuuszki Bądź szybki jak b lyskawica",
-      "failedAt": "2026-03-26T05:33:24.865Z",
+      "failedAt": "2026-03-27T05:34:07.286Z",
       "reason": "not_found"
     },
     "fight-ambre": {
       "gameName": "Fight Ambre",
-      "failedAt": "2026-03-26T05:33:26.411Z",
+      "failedAt": "2026-03-27T05:34:08.847Z",
       "reason": "not_found"
     },
     "fight-natasha": {
       "gameName": "Fight Natasha",
-      "failedAt": "2026-03-26T05:33:27.952Z",
+      "failedAt": "2026-03-27T05:34:10.406Z",
       "reason": "not_found"
     },
     "grzybobranie-rajd-samochodowy": {
       "gameName": "Grzybobranie rajd samochodowy",
-      "failedAt": "2026-03-26T05:33:29.524Z",
+      "failedAt": "2026-03-27T05:34:11.966Z",
       "reason": "not_found"
     },
     "hannabi": {
       "gameName": "Hannabi",
-      "failedAt": "2026-03-26T05:33:31.075Z",
+      "failedAt": "2026-03-27T05:34:13.526Z",
       "reason": "not_found"
     },
     "joan-of-arc": {
       "gameName": "Joan of arc",
       "bggId": "407391",
-      "failedAt": "2026-03-26T05:33:34.486Z",
+      "failedAt": "2026-03-27T05:34:16.839Z",
       "reason": "no_image"
     },
     "karty-dzentelmenow-1": {
       "gameName": "Karty dżentelmenów 1",
-      "failedAt": "2026-03-26T05:33:36.036Z",
+      "failedAt": "2026-03-27T05:34:18.449Z",
       "reason": "not_found"
     },
     "karty-dzentelmenow-2": {
       "gameName": "Karty dżentelmenów 2",
-      "failedAt": "2026-03-26T05:33:37.780Z",
+      "failedAt": "2026-03-27T05:34:20.062Z",
       "reason": "not_found"
     },
     "kibole-wyjazd-na-mecz": {
       "gameName": "Kibole wyjazd na mecz",
-      "failedAt": "2026-03-26T05:33:39.336Z",
+      "failedAt": "2026-03-27T05:34:21.671Z",
       "reason": "not_found"
     },
     "komiks-gra-karciana": {
       "gameName": "Komiks Gra karciana",
-      "failedAt": "2026-03-26T05:33:40.923Z",
+      "failedAt": "2026-03-27T05:34:23.241Z",
       "reason": "not_found"
     },
     "marvel-xmen-bunt-mutantow": {
       "gameName": "Marvel Xmen bunt mutantów",
-      "failedAt": "2026-03-26T05:33:42.470Z",
+      "failedAt": "2026-03-27T05:34:24.832Z",
       "reason": "not_found"
     },
     "massive-darkness-2-hellspace": {
       "gameName": "Massive Darkness 2 Hellspace",
-      "failedAt": "2026-03-26T05:33:44.120Z",
+      "failedAt": "2026-03-27T05:34:26.395Z",
       "reason": "not_found"
     },
     "mistakos-walka-o-stoki": {
       "gameName": "Mistakos walka o stołki",
-      "failedAt": "2026-03-26T05:33:45.738Z",
+      "failedAt": "2026-03-27T05:34:27.985Z",
       "reason": "not_found"
     },
     "nie-testowalsmy-tego-wcale": {
       "gameName": "Nie testowalśmy tego wcale",
-      "failedAt": "2026-03-26T05:33:47.279Z",
+      "failedAt": "2026-03-27T05:34:29.545Z",
       "reason": "not_found"
     },
     "race-for-the-galaxy-narodziny-imperium": {
       "gameName": "Race for the galaxy narodziny imperium",
-      "failedAt": "2026-03-26T05:33:48.830Z",
+      "failedAt": "2026-03-27T05:34:31.111Z",
       "reason": "not_found"
     },
     "race-for-the-galaxy-rebel-kontra-imperium": {
       "gameName": "Race for the galaxy rebel kontra imperium",
-      "failedAt": "2026-03-26T05:33:50.383Z",
+      "failedAt": "2026-03-27T05:34:32.756Z",
       "reason": "not_found"
     },
     "race-for-the-galaxy-rebel-xeno-invasion": {
       "gameName": "Race for the galaxy rebel xeno invasion",
-      "failedAt": "2026-03-26T05:33:51.927Z",
+      "failedAt": "2026-03-27T05:34:34.321Z",
       "reason": "not_found"
     },
     "rummicube": {
       "gameName": "Rummicube",
-      "failedAt": "2026-03-26T05:33:53.487Z",
+      "failedAt": "2026-03-27T05:34:35.882Z",
       "reason": "not_found"
     },
     "stars-wars-the-deckbuilding-game": {
       "gameName": "Stars Wars The Deckbuilding game",
-      "failedAt": "2026-03-26T05:33:55.035Z",
+      "failedAt": "2026-03-27T05:34:37.498Z",
       "reason": "not_found"
     },
     "stars-wars-zewnetrzne-rubieze": {
       "gameName": "Stars Wars zewnętrzne rubieże",
-      "failedAt": "2026-03-26T05:33:56.582Z",
+      "failedAt": "2026-03-27T05:34:39.061Z",
       "reason": "not_found"
     },
     "stars-wars-zewnetrzne-rubieze-niedokonczone-sprawy": {
       "gameName": "Stars Wars zewnętrzne rubieże niedokończone sprawy",
-      "failedAt": "2026-03-26T05:33:58.131Z",
+      "failedAt": "2026-03-27T05:34:40.619Z",
       "reason": "not_found"
     },
     "times-up-celebrity": {
       "gameName": "Times up celebrity",
-      "failedAt": "2026-03-26T05:33:59.678Z",
+      "failedAt": "2026-03-27T05:34:42.216Z",
       "reason": "not_found"
     },
     "times-up-family": {
       "gameName": "Times up family",
-      "failedAt": "2026-03-26T05:34:01.238Z",
+      "failedAt": "2026-03-27T05:34:43.843Z",
       "reason": "not_found"
     },
     "total-domination-deluxe-set": {
       "gameName": "Total domination deluxe set",
-      "failedAt": "2026-03-26T05:34:02.782Z",
+      "failedAt": "2026-03-27T05:34:45.483Z",
       "reason": "not_found"
     },
     "weimar": {
       "gameName": "Weimar",
       "bggId": "26417",
-      "failedAt": "2026-03-26T05:34:05.973Z",
+      "failedAt": "2026-03-27T05:34:48.762Z",
       "reason": "no_image"
     },
     "wir-sind-das-volk-dodatek": {
       "gameName": "Wir sind das volk dodatek",
-      "failedAt": "2026-03-26T05:34:07.517Z",
+      "failedAt": "2026-03-27T05:34:50.333Z",
       "reason": "not_found"
     },
     "wojownicy-podziemi-2-edycja": {
       "gameName": "Wojownicy podziemi 2 edycja",
-      "failedAt": "2026-03-26T05:34:09.082Z",
+      "failedAt": "2026-03-27T05:34:51.934Z",
       "reason": "not_found"
     },
     "zgroza-xd": {
       "gameName": "Zgroza xD",
-      "failedAt": "2026-03-26T05:34:10.625Z",
+      "failedAt": "2026-03-27T05:34:53.496Z",
       "reason": "not_found"
     }
   }
